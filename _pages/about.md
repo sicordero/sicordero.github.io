@@ -1,49 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello, I'm Isabel Cordero - a research support scientist from New York City. I'm a Research Assistant with the [Polar Geophysics & Glaciology](https://pgg.ldeo.columbia.edu) Group witihn the Marine & Polar Geophysics (MPG) Division at [Lamont-Doherty Earth Observatory](https://ldeo.columbia.edu) of Columbia University. I provide support for many things including: fieldwork logistics; geophysical data analysis and processing; archive management; student-project management; outreach coordination & organization; science communication; and more. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a 3rd generation New Yorker and fit many of the stereotypes. My hometown is vulnerable to many things, but one primary threat is climate change. Supporting Arctic and Antarctic research allows me to contribute towards improving our global understanding of the massive glaciers and ice sheets that threaten, not only my city, but our entire planet.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+My Work & Research
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am currently the Project Manager for the [Visualizing Ice Sheets in Extended Reality (VISER)](https://pgg.ldeo.columbia.edu/projects/VISER) Project, which was developed by [Dr. Alexandra Boghosian](https://alexandraboghosian.com/) and [Prof. Steven Feiner](https://www.cs.columbia.edu/~feiner/). This interdisciplinary project invites students (undergraduate and graduate) affiliated with Prof. Feiner's [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu/home) to make a VR/AR application for better polar data analysis. I'm extremely proud of this work, as it's a labor of love and a cool intersection of my skills and interests. I enjoy working with students involved with CGUI and other Computer Science fields. Not only do I get to learn a lot about computer visualizaiton and graphics, but I also get to provide them with valuable work and research experience.
 
-Create content & metadata
+Throughout my time as a Research Assistant and Data Manager for the PGG folks, I focussed on the [ROSETTA-Ice Project's](https://pgg.ldeo.columbia.edu/projects/ROSETTA-Ice) radar dataset. This experience with processing, analysing, and visualizing these radar datasets is what garnered my involvement in the VISER Project as well as the [Open Polar Radar (OPoRa) Project](https://people.climate.columbia.edu/projects/view/2389). 
+
+From 2022 onwards, I've been the MPG Division Representative & Organizer to the Open House Organization Committee for [Lamont's Annual Open House Event](openhouse.ldeo.columbia.edu/about). Having participated as an Open House outreach volunteer since arriving at Lamont in 2016, I was in a unique position to coordinate the event. While organizing the MPG outreach tent, I also continued to participate as a science communicator. In 2022 and 2023, I joined VISER in developing an interactive display to educate all ages about ice-penetrating radar data, the Ross Ice Shelf, Petermann Glacier, and the potential scientific uses of VR. In the past for Open House I have developed all-ages material for Lamont's historic scientific involvement in the Apollo Lunar Missions, as well as ROSETTA-Ice Project explanations. I'm no stranger to outreach, and now I make sure my colleague have everything they need as well.
+
+I'm also a Curator at the [United States Antarctic Program Data Center (USAP-DC)](www.usap-dc.org), where I assist with managing the repository database, dataset archiving, NSF OPP project registration, and developing helpful materials and webinars for Data Center users.
+
+
+A Little About Me
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+“<i>A jack of all trades is a master of none, but oftentimes better than a master of one.</i>” 
 
-**Markdown generator**
+Growing up in New York City has given me an incredibly well rounded upbringing. While luck has a lot to do with it, I was fortunate to have access to theater, museums, libraries, and public transportation. My parents were keen to make sure I knew the value and history of the resources available to me - from the geology to the social policies.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Student-rush tickets for the performing arts, led to theater programs, which led to public speaking and science communication. 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+City-funded entry to museums during dinosaur phases, gems and mineral phases, Greek pantheon phases, Egyptian pharoh phases, and many more childhood micro-obsessions, led to a B.A. in Archaeology/Anthropology. My academic and fieldwork experience during my degree gave me skills that have been applicable in other facets of life and directly contributed to my current work in remote sensing and geophysical data processing.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I'm also a huge soccer fan and follow the English Premier League very closely. I've been a Manchester United fan for over half of my life. United 'til I die!
