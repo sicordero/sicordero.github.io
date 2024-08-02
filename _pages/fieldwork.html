@@ -5,6 +5,12 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
+{% if site.fieldworkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/fieldworkmap.html">See a map of all the places I've done fieldwork!</a></p>
+
+{% endif %}
+
 {% include base_path %}
 
 {% for post in site.fieldwork reversed %}
