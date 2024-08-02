@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Talks & Posters"
+permalink: /presentations/
+author_profile: true
+---
+
+These are all my presentations - recorded talks, slides from talks, and posters.
+
+{% for post in site.presentations reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
