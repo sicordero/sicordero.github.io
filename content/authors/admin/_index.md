@@ -3,7 +3,7 @@
 title: S. Isabel Cordero
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Sylvia Isabel A. Cordero'
 
 # Full name (for SEO)
 first_name: Isabel
