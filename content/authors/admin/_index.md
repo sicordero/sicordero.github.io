@@ -49,7 +49,7 @@ interests:
   - Geospatial Data Visualization
   - Project/Program Managment
   - Archaeology
-  - The NYC MTAq
+  - The NYC MTA
 
 education:
   - area: Academic Advancement

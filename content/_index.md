@@ -35,13 +35,11 @@ sections:
       title: '📚 My Research & Background'
       subtitle: ''
       text: |-
-        "People are like gems, right? They have facets to them and some of them only get exposed within certain relationships." - Brennan Lee Mulligan
+        "<i>People are like gems, right? They have facets to them and some of them only get exposed within certain relationships.</i>"   - Brennan Lee Mulligan
 
-        There's more than one way to look at a problem. Risk management is a large compontent to being solution oriented. 
+        There's more than one way to look at a problem. My multi-faceted background allows me to be solution oriented and develop quick risk management plans. I enjoy interdisciplinary project management and showcasing my flexible skillsets.
 
-        With my multi-faceted background, I look forward to new challenges and enjoy resolving puzzles. Interdisciplinary project management uses most of the skills in my toolbox and allows me to stretch into new frontiers. I know my flexible skillsets can be molded to support a required task at hand, without becoming overly specialized. 
-
-        Currently, I'm facinated with expanding the ways geospatial and geophysical data is visualized and interpreted. As Project Manager and Lead Radar Consultant for the [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project, I find myself in a unique situation where I struggle to balance the objectivity of management and the passion of an invested stakeholder.
+        Currently, I'm interested in expanding the ways geospatial and geophysical data is visualized and interpreted. As Project Manager and Lead Radar Consultant for the [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project, I find myself in a unique situation where I struggle to balance the objectivity of management and the passion of an invested stakeholder.
         
         Please reach out to collaborate 😃
     design:
@@ -53,7 +51,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2
