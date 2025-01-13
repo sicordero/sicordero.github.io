@@ -32,12 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research & Background'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        "People are like gems, right? They have facets to them and some of them only get exposed within certain relationships." - Brennan Lee Mulligan
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        There's more than one way to look at a problem. Risk management is a large compontent to being solution oriented. 
+
+        With my multi-faceted background, I look forward to new challenges and enjoy resolving puzzles. Interdisciplinary project management uses most of the skills in my toolbox and allows me to stretch into new frontiers. I know my flexible skillsets can be molded to support a required task at hand, without becoming overly specialized. 
+
+        Currently, I'm facinated with expanding the ways geospatial and geophysical data is visualized and interpreted. As Project Manager and Lead Radar Consultant for the [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project, I find myself in a unique situation where I struggle to balance the objectivity of management and the passion of an invested stakeholder.
         
         Please reach out to collaborate 😃
     design:
@@ -63,45 +67,45 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      view: article-grid
+#      columns: 1
+  #- block: collection
+  #  id: news
+  #  content:
+  #    title: Recent News
+  #    subtitle: ''
+  #    text: ''
+  #    # Page type to display. E.g. post, talk, publication...
+  #    page_type: post
+  #    # Choose how many pages you would like to display (0 = all pages)
+  #    count: 5
+  #    # Filter on criteria
+  #    filters:
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+  #      exclude_featured: false
+  #      exclude_future: false
+  #      exclude_past: false
+  #      publication_type: ""
+  #    # Choose how many pages you would like to offset by
+  #    offset: 0
+  #    # Page order: descending (desc) or ascending (asc) date.
+  #    order: desc
+  #  design:
+  #    # Choose a layout view
+  #    view: date-title-summary
+  #    # Reduce spacing
+  #    spacing:
+  #      padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

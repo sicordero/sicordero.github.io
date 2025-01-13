@@ -3,7 +3,7 @@
 title: S. Isabel Cordero
 
 # Name pronunciation (optional)
-name_pronunciation: 'Sylvia Isabel A. Cordero'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Isabel
@@ -52,37 +52,30 @@ interests:
   - The NYC MTAq
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Academic Advancement
+    institution: Columbia University School of Prof. Studies
+    date_start: 2021-06-01
+    date_end: 2021-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Completed Calculus I during condensed summer semester. Transcript available upon request.
+  - area: Anthropology (Archaeology)
+    institution: Skidmore College
+    date_start: 2011-09-01
+    date_end: 2016-01-01
     summary: |
-      GPA: 3.8/4.0
+      Presented capstone research at 2015 Northeastern Anthropological Association Conference.
+      Developed skills in: archeological fieldwork; ethnographic research; bio & zooarchaeology; artifact handling & cataloging; ArcGIS; event organization, management, & execution; budget & inventory management; public relations; copy editing; creative writing; academic research.
+      
+      Transcript available upon request.
+
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -164,6 +157,6 @@ languages:
 
 ---
 
-## About Me
+## About
 
-Isabel is a lifelong New Yorker with a multi-faceted background, including: event coordination, inclusionary project management, archaeology, creative- and copy-writing, ice-penetrating radar interpretation, and premier league football. She is an effective communicator who enjoys collaborative work, while also independently motivated.
+Isabel is a lifelong New Yorker with an interdisciplinary background. Her skills in event coordination, inclusionary project management, ice-penetrating radar interpretation, and copy-editing have shaped the way she approaches scientific research support.

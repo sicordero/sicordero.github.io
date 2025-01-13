@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: S. Isabel Cordero
+title: Isabel Cordero
 # Website URL
-baseURL: 'https://isabelcordero.github.io/'
+baseURL: 'https://isabelcordero.com/'
 
 ############################
 ## LANGUAGE
