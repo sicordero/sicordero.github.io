@@ -58,7 +58,7 @@ education:
     date_end: 2021-07-31
     summary: |
       Completed Calculus I during condensed summer semester. Transcript available upon request.
-  - area: Anthropology (Archaeology)
+  - area: B.A. in Anthropology (Archaeology)
     institution: Skidmore College
     date_start: 2011-09-01
     date_end: 2016-01-01
@@ -67,38 +67,87 @@ education:
       Developed skills in: archeological fieldwork; ethnographic research; bio & zooarchaeology; artifact handling & cataloging; ArcGIS; event organization, management, & execution; budget & inventory management; public relations; copy editing; creative writing; academic research.
       
       Transcript available upon request.
-
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Project Logistics Coordinator
+    company_name: NERC NSF Antarctic Peninsula Melt Dynamics (FRAM)
+    company_url: 'https://ldeo-glaciology.github.io/AntPen_NSF_NERC/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-07-01
+    date_end: ''
+    summary: |
+      Develop and execute roadmap for Antarctic fieldwork deployment. Lead risk assessment and contingency planning. Routine check-ins and KPI assessments. Point of contact for British Antarctic Survey (BAS), United States Antarctic Program (USAP), and EarthScope regarding project logistics and field requirements. Weekly reports and timeline assessments with FRAM project collaborators: University of Northumbria and University of Sheffield.
+      
+      Responsibilities include:
+      - Execute mission-critical tasks: Antarctic fieldwork equipment acquisition, preparation, packing, and international shipping; purchase order fulfillment; insurance department liaising; detailed inventory documentation; deliverable prioritization; and, federal proforma administration. 
+      - Ensure Antarctic Treaty and federal fieldwork compliance for USAP and BAS regulations.
+  - position: Curator & Data Repository Manager
+    company_name: United States Antarctic Data Center (USAP-DC)
+    company_url: 'https://www.usap-dc.org/'
+    company_logo: ''
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
+      Support Antarctic Researchers with National Science Foundation (NSF) Office of Polar Programs (OPP) funded projects and digital data. Provide long-term repository for digital data archive, data management plan distribution, and project registration. Regularly interface with NSF funded researchers and NSF program officers.
+
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Manage internal SQL databases, archive servers, and Curator documentation
+      - Perform data FAIRness assessments (Findable, Accessible, Interoperable, Reusable) and develop internal FAIRness assesment matrices 
+      - Create outreach material, revise user guidelines, and amend website text.
+      - Organize/host annual Zoom webinar, perform stakeholder engagement, and collaborate with other national polar sample/data repositories
+  - position: Project Manager
+    company_name: Visualizing Ice Sheets in Extended Reality (VISER)
+    company_url: 'https://pgg.ldeo.columbia.edu/projects/VISER'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+    date_start: 2022-09-01
+    date_end: ''
+    summary: |2-
+      Maintain project critical path with quarterly milestone evaluations, routine roadblock assessments, stakeholder reports, and publication contribution. Manage team of 3 - 8 Research Project Course students (undergraduate, graduate, PhD) enrolled through Prof. Steven Feiner’s Computer Graphics & User Interfaces (CGUI) Lab. Foster communication between interdisciplinary stakeholders and advisory faculty.
+
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Prof. Feiner CGUI Research Project Course student recruitment, project scope onboarding, scrum task assignment, KPI & statement of work evaluations, mentorship, and polar science education
+      - Engage in in-person outreach events with Virtual Reality (VR) headset application demonstration, as well as demo video recording/editing
+      - Search for project funding opportunities; prepare proposal scope and budget for grants
+      - Contribute to publication and conference paper/poster submissions: [Boghosian, et al., 2023](http://doi.org/10.1109/IGARSS52108.2023.10283077), [Cordero, et al., 2023](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN43B0624C/abstract), [Cordero, et al., 2020](https://ui.adsabs.harvard.edu/abs/2020AGUFMED012..06C/abstract)
+      - Perform Ice-penetrating radar data processing and polar geospatial data consultation. Provide stakeholder access and feedback.
+  - position: Radar Consultant
+    company_name: Visualizing Ice Sheets in Extended Reality (VISER)
+    company_url: 'https://pgg.ldeo.columbia.edu/projects/VISER'
+    company_logo: ''
+    date_start: 2018-08-01
+    date_end: '2022-08-31'
+    summary: |2-
+      Responsibilities include:
+      - Processed and provided ice-penetrating radar data, imagery, and geospatial positioning information for Extended Reality (XR) headset applications: [ZoomAntarctica](https://github.com/martinjpratt/ZoomAntarctica#readme, [The Greenland Project](https://github.com/sofiasanchez985/greenland#ar-greenland--antarctica-icesheet-visualizer), and [AntARctica](https://github.com/guosy1998/antARctica#antarctica-ar-visualizer-for-ice-penetrating-radar-data-on-antarcticas-ross-ice-shelf)
+      - Generated onboarding presentations and stakeholder input throughout app development process.
+      - Contributed to publication regarding 3D radar data visualization in Microsoft HoloLens1 [Boghosian, et al., 2019](https://doi.org/10.1111/phor.12298).
+  - position: Event Organizer for Marine & Polar Geophysics (MPG) Division
+    company_name: Lamont-Doherty Earth Observatory (LDEO) Annual Open House
+    company_url: 'https://openhouse.ldeo.columbia.edu/'
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: ''
+    summary: |2-
+      MPG Division exhibition tent coordinator for annual campus-wide outreach event with >2,000 attendees. Manage 20-40 outreach volunteers (highschool student - senior research faculty) in preparation & execution of in-person earth science displays. Requires 6-8 weeks of committed effort. Primary outreach organizer for Polar subgroup.
+      
+      Responsibilities include:
+      - Coordinate start-to-finish event: roadmap development; vendor coordination; outreach equipment purchases and distribution; outreach display consultation; volunteer support and communication; on-site display set-up; exhibit curation; and resource management.
+      - Resolve overarching administrative tasks: expense tracking, budget management, timeline execution, and deliver ramp-up / ramp-down / volunteer feedback reports to committee. 
+  - position: Technical Staff
+    company_name: Polar Geophysics & Glaciology (PGG) Group
+    company_url: 'https://pgg.ldeo.columbia.edu/'
+    company_logo: ''
+    date_start: 2016-07-01
+    date_end: ''
+    summary: |2-
+      Overarching general and administrative support for all working groups within PGG involving: science communication; outreach material development; scientific data, field, and logistics support for NSF funded Antarctic projects; and geophysical polar data processing.
+      
+      Responsibilities include:
+      - Administrate & manage: data archive servers, group website, documentation, Slack channel, and outreach materials. Liase with IT Department regarding maintenance of servers and adherence to University policies.
+      - Data manager and data distributor of [ROSETTA-Ice Project](https://pgg.ldeo.columbia.edu/projects/rosetta-ice) datasets.
+      - Field cargo shipping and receiving logisitcs.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -107,15 +156,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 70
+        percent: 50
         icon: code-bracket
-      - name: MATLab
+      - name: Office Suite
         description: ''
-        percent: 70
+        percent: 85
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 30
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -125,10 +174,10 @@ skills:
         description: ''
         percent: 70
         icon: heroicons/computer-desktop
-     # - name: Cats
-     #   description: ''
-     #   percent: 100
-     #   icon: cat
+      - name: Kvetching
+        description: ''
+        percent: 100
+        icon: tea
      # - name: Photography
      #   description: ''
      #   percent: 80
