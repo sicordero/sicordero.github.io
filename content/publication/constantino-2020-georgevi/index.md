@@ -11,4 +11,9 @@ publishDate: '2025-01-13T16:56:08.226755Z'
 publication_types:
 - paper-conference
 publication: '*AGU Fall Meeting Abstracts*'
+
+tags:
+- Ice-Penetrating Radar
+- Ice Shelf Thickness
+- Poster
 ---

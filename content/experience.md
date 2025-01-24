@@ -26,7 +26,7 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Fieldwork
       username: admin
   - block: resume-languages
     content:

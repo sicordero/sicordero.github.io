@@ -9,6 +9,12 @@ authors:
 date: '2023-01-01'
 publishDate: '2025-01-13T16:56:08.288516Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*AGU23*'
+
+tags:
+- Data Repository
+- USAP-DC
+- FAIR Data
+- Poster
 ---

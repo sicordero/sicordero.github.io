@@ -8,4 +8,11 @@ publishDate: '2025-01-13T16:56:08.313045Z'
 publication_types:
 - manuscript
 publication: '*https://skidmoreanthropology.weebly.com/student-projects/dem-bones-looking-at-subsistence-pressure-at-al-khayran-jordan-during-the-pre-pottery-neolithic-b*'
+
+tags:
+- Archaeology
+- Zooarchaeology
+- Subsitence Methods
+- Fracture Patterns
+- Blog Post
 ---

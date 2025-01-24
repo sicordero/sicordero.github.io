@@ -13,7 +13,8 @@ permissions:
 jobs:
   update:
     if: github.repository_owner == 'HugoBlox'
-    runs-on: ubuntu-latest
+    #runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  #potential solution for github actions update
     steps:
       - uses: HugoBlox/gh-action-updater@v1
         with:

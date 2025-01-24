@@ -10,7 +10,11 @@ publication_types:
 publication: '*Northeastern Anthropological Association 55th Annual Meeting*'
 
 tags:
-- Large Language Models
+- Archaeology
+- Zooarchaeology
+- Subsitence Methods
+- Fracture Patterns
+- Talk
 
 featured: true
 
@@ -40,7 +44,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- archaeology
 
 
 ---

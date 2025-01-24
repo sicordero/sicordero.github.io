@@ -191,18 +191,59 @@ languages:
   - name: Yiddish
     percent: 10
 
-# Awards.
+# Awards. CHANGED TO FIELDWORK
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Neural Networks and Deep Learning
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
-#    icon: coursera
-#    summary: |
-#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+awards:
+  - title: Geophysical Field Intern
+    url: https://bafs.ie/
+    date: '2018-04-01'
+    awarder: Blackfriary Archaeology Field School
+    location: Trim, Ireland
+    #icon: coursera
+    summary: |
+      Assisted PhD Ashely Green (Bournemouth University), in consortium with the Blackfriary Community Heritage and Archaeology Project, with geophysical field survey of potential burial site using resistance meter, magnetometer, and ground penetrating radar (GPR) sensors. Completed preliminary data processing with DraftSight, Snuffler, and GPR-Slice.
+  - title: Ice-Penetrating Radar QC & Field Support
+    url: http://pgg.ldeo.columbia.edu/projects/rosetta-ice
+    date: '2016-11-05'
+    awarder: ROSETTA-Ice Project
+    location: McMurdo Station, Antarctica
+    summary: |2-
+      Field team member for ROSETTA-Ice Project - an interdisciplinary, airborne, geophysical survey of the Ross Ice Shelf in Antarctica. Institutional collaborators: Lamont-Doherty Earth Observatory at Columbia University, Scripps Institute of Oceanography, Colorado College, U.S. Geological Survey, and Earth & Space Research.
+      
+      Airborne ice-penetrating radar QC specialist for ROSETTA for Antarctic field deployments (2016-2017, 2017-2018). Assisted with field instrument and cargo organization, packing, and international shipping to and from Antarctica. Participated in RAC tent set-up for on-site digital data processing and archiving, including: cable management, field report organization, and engineering bay tool organization. Reviewed and streamlined field instrument operating procedures, QC procedures, QC report forms, data archive procedures, and additional documentation forms. 
+      
+      Geophysical Sensors QC’d: 
+      - Deep ICE (DICE) radar
+      - Shallow Ice Radar (SIR)
+      - Magnetometer (MAG)
+      - GPS systems (POD-INS/SPAN)
+  - title: Bioarchaeology Field Student
+    url: https://bafs.ie/
+    date: '2015-06-01'
+    awarder: Blackfriary Archaeology Field School
+    location: Trim, Ireland
+    summary: |2-
+      Participated in excavation of the medieval Blackfriary Community Heritage Site. Fieldwork included: site surveyal; heritage site conduct; burial excavation; osteology; artifact cleaning, cataloguing, and analysis; inventory management; science communication; community outreach; subsistence method research and presentation. 
+      
+      Blackfriary Archaeology Field School at the time was part of the [Irish Archaeology Field School](https://iafs.ie/). Enrolled through the [Institute for Field Research](https://ifrglobal.org/), which provides academic credit through Connecticut College. Credits appear on Skidmore College academic transcript - available upon request.
+  - title: GIS & Bioarchaeology Field Student
+    url: https://archaeology.institute/
+    date: '2014-06-15'
+    awarder: Sanisera Archaeological Institute for International Field Schools
+    location: Menorca, Spain
+    summary: |2-
+      Participated in excavation of early-Christian, Roman, port city in Menorca, Spain. Fieldwork included: necropolis excavation, osteology instruction, heritage site conduct, field site mapping and digitization (ArcGIS, QGIS).
+      
+      Received Sanisera Archaeological Institute certification for GIS & Bioarcheology work. Available upon request.
+  - title: Archaeology Student
+    url: https://archaeology.institute/
+    date: '2013-10-01'
+    awarder: Skidmore College Excavation of Woodlawn Estate
+    location: Saratoga Springs, NY
+    summary: |2-
+      Participated in ongoing excavation of the former Woodlawn Estate located in the Northwoods of Skidmore College, led by Dr. Heather Hurst, as part of the Archaeology Research & Methods course. Included: land & site surveys; soil identification; artifact cleaning, cataloguing, and analysis; excavation techniques; science communication.
 
 ---
 

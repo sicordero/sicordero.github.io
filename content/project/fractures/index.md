@@ -1,11 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Fracture Patterns
+date: 2015-05-01
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Archaeology
+  - Zooarchaeology
+  - Retired Projects
 ---
 
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
