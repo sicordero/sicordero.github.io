@@ -161,7 +161,7 @@ skills:
       - name: Office Suite
         description: ''
         percent: 85
-        icon: chart-bar
+        icon: document-text
       - name: SQL
         description: ''
         percent: 30
@@ -174,14 +174,14 @@ skills:
         description: ''
         percent: 70
         icon: computer-desktop
+      - name: Premier League Football
+        description: 'Manchester United until I die.'
+        percent: 100
+        icon: globe-americas
       - name: Kvetching
         description: ''
         percent: 100
         icon: chat-bubble-left-right
-     # - name: Photography
-     #   description: ''
-     #   percent: 80
-     #   icon: camera
 
 languages:
   - name: English
