@@ -12,7 +12,7 @@ publication_types:
 publication: '*Skidmore Anthropology - Student Projects*'
 
 # Custom links (uncomment lines below)
-# links:
+links:
  - name: Blog Post
    url: https://skidmoreanthropology.weebly.com/student-projects/dem-bones-looking-at-subsistence-pressure-at-al-khayran-jordan-during-the-pre-pottery-neolithic-b
 
