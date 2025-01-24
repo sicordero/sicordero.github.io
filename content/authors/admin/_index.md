@@ -177,7 +177,7 @@ skills:
       - name: Kvetching
         description: ''
         percent: 100
-        icon: 🤌
+        icon: chat-bubble-left-right
      # - name: Photography
      #   description: ''
      #   percent: 80
