@@ -18,4 +18,11 @@ publishDate: '2025-01-13T16:56:08.318935Z'
 publication_types:
 - article-journal
 publication: '*AGU24*'
+
+tags:
+- Ice-Penetrating Radar
+- Ice Shelf Structure
+
+projects:
+- radar
 ---

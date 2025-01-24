@@ -18,4 +18,12 @@ publishDate: '2025-01-13T16:56:08.217671Z'
 publication_types:
 - article-journal
 publication: '*Nature Geoscience*'
+
+tags:
+- Ice Shelf Structure
+- Ice-Penetrating Radar
+- ROSETTA-Ice
+
+projects:
+- radar
 ---

@@ -14,8 +14,17 @@ authors:
 - Cyrille Mosbeux
 - ' others'
 date: '2020-01-01'
-publishDate: '2025-01-13T16:56:08.239219Z'
+publishDate: '2020-01-13T16:56:08.239219Z'
 publication_types:
 - article-journal
 publication: '*Journal of Geophysical Research: Earth Surface*'
+
+tags:
+- Ice-Penetrating Radar
+- Ice Shelf Structure
+- ROSETTA-Ice
+- Basal Melt
+
+projects:
+- radar
 ---

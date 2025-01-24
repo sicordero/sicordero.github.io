@@ -9,8 +9,14 @@ authors:
 - S Isabel Cordero
 - Angelo Tarzona
 date: '2023-01-01'
-publishDate: '2025-01-13T16:56:08.300812Z'
+publishDate: '2023-01-13T16:56:08.300812Z'
 publication_types:
 - paper-conference
 publication: '*AGU Fall Meeting Abstracts*'
+
+tags:
+- Ice-Penetrating Radar
+- Ice Shelf Structure
+- ROSETTA-Ice
+- Poster
 ---

@@ -11,9 +11,23 @@ authors:
 - Caitlin D Locke
 - Kirsty J Tinto
 - Robin E Bell
+
 date: '2019-01-01'
-publishDate: '2025-01-13T16:56:08.245495Z'
+
+publishDate: '2019-01-13T16:56:08.245495Z'
+
 publication_types:
 - article-journal
+
 publication: '*The Photogrammetric Record*'
+
+tags:
+- XR
+- 3D Geospatial Data
+- 3D Data Visualization
+- Ice-Penetrating Radar
+- ROSETTA-Ice
+
+projects:
+- viser
 ---

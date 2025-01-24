@@ -23,4 +23,7 @@ tags:
 - Subsitence Methods
 - Fracture Patterns
 - Blog Post
+
+projects:
+- fractures
 ---

@@ -9,4 +9,13 @@ publishDate: '2025-01-13T16:56:08.276467Z'
 publication_types:
 - paper-conference
 publication: '*AGU Fall Meeting Abstracts*'
+
+tags:
+- Ice Shelf Structure
+- Ice-Penetrating Radar
+- ROSETTA-Ice
+- Poster
+
+projects:
+- radar
 ---

@@ -14,4 +14,15 @@ publishDate: '2025-01-13T16:56:08.251682Z'
 publication_types:
 - paper-conference
 publication: '*AGU Fall Meeting Abstracts*'
+
+tags:
+- XR
+- Ice-Penetrating Radar
+- 3D Geospatial Data
+- 3D Data Visualization
+- ROSETTA-Ice
+- Poster
+
+projects:
+- viser
 ---
