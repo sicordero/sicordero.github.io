@@ -5,11 +5,16 @@ authors:
 - S. Isabel Cordero
 date: '2015-05-01'
 
-publishDate: '2015-01-05T16:56:08.313045Z'
+publishDate: '2015-01-01T16:56:08.313045Z'
 
 publication_types:
 - manuscript
-publication: '*https://skidmoreanthropology.weebly.com/student-projects/dem-bones-looking-at-subsistence-pressure-at-al-khayran-jordan-during-the-pre-pottery-neolithic-b*'
+publication: '*Skidmore Anthropology - Student Projects*'
+
+# Custom links (uncomment lines below)
+# links:
+ - name: Blog Post
+   url: https://skidmoreanthropology.weebly.com/student-projects/dem-bones-looking-at-subsistence-pressure-at-al-khayran-jordan-during-the-pre-pottery-neolithic-b
 
 abstract: The period 10,000 years ago in the southern Levant (Jordan and Palestine/Israel) known as the Pre-Pottery Neolithic B (PPNB), is widely regarded as an essential transition period. It is the first place and time anywhere in the world where we have evidence of the beginning of agriculture and people living in villages year-round, instead of moving throughout the landscape following food availability. Many researchers have argued that the inhabitants of the PPNB settlements in the Middle East experienced high levels of food stress. This food stress, what archaeologists often refer to as subsistence pressure, would have been the result of a growing population living a sedentary lifestyle, and has been said to be what spurred the beginnings of herding animals in the region. I analyzed bones from a small, seasonally occupied PPNB settlement in West-Central Jordan, known as al-Khayran, in order to test the idea that the site’s occupants were experiencing subsistence pressure. My hypothesis was that, because the settlement population was likely small and temporary, the inhabitants would not have been experiencing the same food stresses as people at other sites from the time period.
 
