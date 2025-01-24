@@ -154,13 +154,13 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: Office Suite
+        description: ''
+        percent: 85
       - name: Python
         description: ''
         percent: 50
         icon: code-bracket
-      - name: Office Suite
-        description: ''
-        percent: 85
         icon: document-text
       - name: SQL
         description: ''
