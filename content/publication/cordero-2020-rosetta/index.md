@@ -16,6 +16,10 @@ publication_types:
 
 publication: '*AGU Fall Meeting Abstracts*'
 
+links:
+ - name: View Abstract
+   url: https://ui.adsabs.harvard.edu/abs/2020AGUFMC022.0007C/abstract
+
 tags:
 - Ice-Penetrating Radar
 - Ice Shelf Structure

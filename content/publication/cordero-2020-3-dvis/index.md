@@ -15,7 +15,7 @@ publication: '*AGU Fall Meeting Abstracts*'
 featured: true
 
 links:
-- name: Abstract Link
+- name: View Abstract
   url: https://ui.adsabs.harvard.edu/abs/2020AGUFMED012..06C/abstract
 #url_pdf: '#'
 #url_code: '#'
@@ -27,6 +27,7 @@ links:
 url_video: 'https://youtu.be/8Hq5ii5M1_4'
 
 tags:
+- Extended Reality
 - Ice-Penetrating Radar
 - 3D Geospatial Data
 - 3D Data Visualization

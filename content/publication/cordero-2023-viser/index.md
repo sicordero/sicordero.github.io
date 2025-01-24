@@ -18,8 +18,12 @@ publication_types:
 
 publication: '*AGU Fall Meeting Abstracts*'
 
+links:
+ - name: View Abstract
+   url: https://ui.adsabs.harvard.edu/abs/2023AGUFMIN43B0624C/abstract
+
 tags:
-- XR
+- Extended Reality (XR)
 - 3D Geospatial Data
 - 3D Data Visualization
 - Ice-Penetrating Radar

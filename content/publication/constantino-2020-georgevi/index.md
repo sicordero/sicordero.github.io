@@ -12,6 +12,10 @@ publication_types:
 - paper-conference
 publication: '*AGU Fall Meeting Abstracts*'
 
+links:
+- name: View Abstract
+  url: https://ui.adsabs.harvard.edu/abs/2020AGUFMC028.0013C/abstract
+
 tags:
 - Ice-Penetrating Radar
 - Ice Shelf Thickness

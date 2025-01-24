@@ -10,11 +10,17 @@ publication_types:
 - paper-conference
 publication: '*AGU Fall Meeting Abstracts*'
 
+links:
+ - name: View Abstract
+   url: https://ui.adsabs.harvard.edu/abs/2022AGUFM.C15D0612C/abstract
+
 tags:
-- Ice Shelf Structure
 - Ice-Penetrating Radar
+- Ice Shelf Structure
 - ROSETTA-Ice
 - Poster
+
+featured: true
 
 projects:
 - radar

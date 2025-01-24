@@ -3,7 +3,7 @@ title: Visualizing Ice Sheets in Extended Reality (VISER)
 date: 2022-08-01
 external_link: http://pgg.ldeo.columbia.edu/projects/VISER
 tags:
-  - XR
+  - Extended Reality (XR)
   - PolAR/VR
   - Project Management
   - Ice-Penetrating Radar

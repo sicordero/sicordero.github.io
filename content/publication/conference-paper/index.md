@@ -40,10 +40,9 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+#links:
 # - name: Custom Link
 #   url: http://example.org
-
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'

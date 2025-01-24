@@ -24,7 +24,7 @@ publication: '*The Photogrammetric Record*'
 doi: '10.1111/phor.12298'
 
 tags:
-- XR
+- Extended Reality (XR)
 - 3D Geospatial Data
 - 3D Data Visualization
 - Ice-Penetrating Radar

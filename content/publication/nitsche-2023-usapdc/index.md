@@ -12,6 +12,10 @@ publication_types:
 - paper-conference
 publication: '*AGU23*'
 
+links:
+ - name: View Abstract
+   url: https://ui.adsabs.harvard.edu/abs/2023AGUFM.C11C1061N/abstract
+
 tags:
 - Data Repository
 - USAP-DC

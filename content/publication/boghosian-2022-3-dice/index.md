@@ -15,8 +15,14 @@ publication_types:
 - paper-conference
 publication: '*AGU Fall Meeting Abstracts*'
 
+links:
+- name: View Poster
+  url: https://agu2022fallmeeting-agu.ipostersessions.com/?s=18-D5-AF-86-FC-1D-99-47-79-4C-32-35-12-68-C9-52
+- name: View Abstract
+  url: https://ui.adsabs.harvard.edu/abs/2022AGUFMIN32B0394B/abstract
+
 tags:
-- XR
+- Extended Reality (XR)
 - 3D Geospatial Data
 - 3D Data Visualization
 - Ice-Penetrating Radar

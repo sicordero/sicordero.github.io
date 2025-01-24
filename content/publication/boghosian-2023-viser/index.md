@@ -27,7 +27,7 @@ abstract: Three-dimensional geospatial thinking is an important skillset used by
 featured: true
 
 tags:
-- XR
+- Extended Reality (XR)
 - 3D Geospatial Data
 - 3D Visualization
 - Conference Paper
