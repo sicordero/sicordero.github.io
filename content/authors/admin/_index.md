@@ -120,9 +120,9 @@ work:
     date_end: '2022-08-31'
     summary: |2-
       Responsibilities include:
-      - Processed and provided ice-penetrating radar data, imagery, and geospatial positioning information for Extended Reality (XR) headset applications: [ZoomAntarctica](https://github.com/martinjpratt/ZoomAntarctica#readme, [The Greenland Project](https://github.com/sofiasanchez985/greenland#ar-greenland--antarctica-icesheet-visualizer), and [AntARctica](https://github.com/guosy1998/antARctica#antarctica-ar-visualizer-for-ice-penetrating-radar-data-on-antarcticas-ross-ice-shelf)
+      - Processed and provided ice-penetrating radar data, imagery, and geospatial positioning information for Extended Reality (XR) headset applications: [ZoomAntarctica](https://github.com/martinjpratt/ZoomAntarctica#readme), [The Greenland Project](https://github.com/sofiasanchez985/greenland#ar-greenland--antarctica-icesheet-visualizer), and [AntARctica](https://github.com/guosy1998/antARctica#antarctica-ar-visualizer-for-ice-penetrating-radar-data-on-antarcticas-ross-ice-shelf)
       - Generated onboarding presentations and stakeholder input throughout app development process.
-      - Contributed to publication regarding 3D radar data visualization in Microsoft HoloLens1 [Boghosian, et al., 2019](https://doi.org/10.1111/phor.12298).
+      - Contributed to publication regarding 3D radar data visualization in Microsoft HoloLens1 ([Boghosian, et al., 2019](https://doi.org/10.1111/phor.12298)).
   - position: Event Organizer for Marine & Polar Geophysics (MPG) Division
     company_name: Lamont-Doherty Earth Observatory (LDEO) Annual Open House
     company_url: 'https://openhouse.ldeo.columbia.edu/'
@@ -173,11 +173,11 @@ skills:
       - name: Sid Meier's Civilization VI
         description: ''
         percent: 70
-        icon: heroicons/computer-desktop
+        icon: computer-desktop
       - name: Kvetching
         description: ''
         percent: 100
-        icon: tea
+        icon: 🤌
      # - name: Photography
      #   description: ''
      #   percent: 80
