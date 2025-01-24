@@ -19,6 +19,8 @@ publication_types:
 - article-journal
 publication: '*Nature Geoscience*'
 
+doi: '10.1038/s41561-019-0370-2'
+
 tags:
 - Ice Shelf Structure
 - Ice-Penetrating Radar

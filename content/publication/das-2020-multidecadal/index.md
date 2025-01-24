@@ -18,6 +18,7 @@ publishDate: '2020-01-13T16:56:08.239219Z'
 publication_types:
 - article-journal
 publication: '*Journal of Geophysical Research: Earth Surface*'
+doi: '10.1029/2019jf005241'
 
 tags:
 - Ice-Penetrating Radar
