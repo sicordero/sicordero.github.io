@@ -39,9 +39,10 @@ sections:
 
         There's more than one way to look at a problem. My multi-faceted background allows me to be solution oriented and develop quick risk management plans. I enjoy interdisciplinary project management and showcasing my flexible skillsets.
 
-        Currently, I'm interested in expanding the ways geospatial and geophysical data is visualized and interpreted. As Project Manager and Lead Radar Consultant for the [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project, I find myself in a unique situation where I struggle to balance the objectivity of management and the passion of an invested stakeholder.
+        Currently, I'm interested in expanding the ways geospatial and geophysical data is visualized and interpreted. As Project Manager and Radar Consultant for the [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project, I find myself in a unique situation where I balance the objectivity of management and the passion of an invested stakeholder.
         
-        Please reach out to collaborate 😃
+        Please reach out to learn more 😃
+
     design:
       columns: '1'
   - block: collection

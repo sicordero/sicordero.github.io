@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Outreach
+summary: My outreach
 type: landing
 
 cascade:
