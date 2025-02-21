@@ -35,7 +35,14 @@ tags:
 - 3D Data Visualization
 - Talk
 
-summary: Augmented Reality (AR) and Virtual Reality (VR) may hold a key to unlocking advanced geospatial data analysis. Can this kind of visualization support more than just narrative storytelling? We think so.
+summary: Augmented Reality (AR) and Virtual Reality (VR) may hold a key to unlocking advanced geospatial data analysis. Can this kind of visualization support more than just narrative storytelling? We think so. Talk available above at Video link.
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: S. Isabel Cordero'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

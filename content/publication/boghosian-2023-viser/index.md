@@ -26,6 +26,13 @@ abstract: Three-dimensional geospatial thinking is an important skillset used by
 # Display this page in the Featured widget?
 featured: true
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: Alexandra Boghosian'
+  focal_point: ''
+  preview_only: false
+
 tags:
 - Extended Reality (XR)
 - 3D Geospatial Data
