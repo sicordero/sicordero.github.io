@@ -94,8 +94,8 @@ work:
 
       Responsibilities include:
       - Manage internal SQL databases, archive servers, and Curator documentation
-      - Perform data FAIRness assessments (Findable, Accessible, Interoperable, Reusable) and develop internal FAIRness assesment matrices 
-      - Create outreach material, revise user guidelines, and amend website text.
+      - Develop & perform internal data quality assessments based on federal & discipline specific FAIR (Findable, Accessible, Interoperable, Reusable) standards
+      - Create outreach material, revise user guidelines, and edit website text.
       - Organize/host annual Zoom webinar, perform stakeholder engagement, and collaborate with other national polar sample/data repositories
   - position: Project Manager
     company_name: Visualizing Ice Sheets in Extended Reality (VISER)
@@ -145,9 +145,11 @@ work:
       Overarching general and administrative support for all working groups within PGG involving: science communication; outreach material development; scientific data, field, and logistics support for NSF funded Antarctic projects; and geophysical polar data processing.
       
       Responsibilities include:
-      - Administrate & manage: data archive servers, group website, documentation, Slack channel, and outreach materials. Liase with IT Department regarding maintenance of servers and adherence to University policies.
+      - Administrate & manage: data archive servers, group website, group documentation, Slack channel, and outreach materials. 
+      - Liase with IT Department regarding maintenance of servers and adherence to University policies.
+      - Proofreader & copywriter for PGG website text, abstract submissions, publication submissions, internal listserv communications, and more.
       - Data manager and data distributor of [ROSETTA-Ice Project](https://pgg.ldeo.columbia.edu/projects/rosetta-ice) datasets.
-      - Field cargo shipping and receiving logisitcs.
+      - Logisitcs planning & field cargo shipping. Liase with Shipping & Receiving Coordinators at LDEO and instrument manufacturers.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -157,11 +159,11 @@ skills:
       - name: Office Suite
         description: ''
         percent: 85
+        icon: document-text
       - name: Python
         description: ''
         percent: 50
         icon: code-bracket
-        icon: document-text
       - name: SQL
         description: ''
         percent: 30
@@ -178,10 +180,10 @@ skills:
         description: 'Manchester United until I die.'
         percent: 100
         icon: globe-americas
-      - name: Kvetching
-        description: ''
-        percent: 100
-        icon: chat-bubble-left-right
+      #- name: Kvetching
+      #  description: ''
+      #  percent: 100
+      #  icon: chat-bubble-left-right
 
 languages:
   - name: English
@@ -214,7 +216,7 @@ awards:
       
       Airborne ice-penetrating radar QC specialist for ROSETTA for Antarctic field deployments (2016-2017, 2017-2018). Assisted with field instrument and cargo organization, packing, and international shipping to and from Antarctica. Participated in RAC tent set-up for on-site digital data processing and archiving, including: cable management, field report organization, and engineering bay tool organization. Reviewed and streamlined field instrument operating procedures, QC procedures, QC report forms, data archive procedures, and additional documentation forms. 
       
-      Geophysical Sensors QC’d: 
+      Geophysical Sensors QCd: 
       - Deep ICE (DICE) radar
       - Shallow Ice Radar (SIR)
       - Magnetometer (MAG)

@@ -9,6 +9,10 @@ publication_types:
 - paper-conference
 publication: '*Northeastern Anthropological Association 55th Annual Meeting*'
 
+abstract: Previous studies have argued that the inhabitants of Pre-Pottery Neolithic B (PPNB) settlements in the Middle East, experienced high levels of subsistence stress. This supposed pressure has been argued to spur the domestication of animals in the region about 10,000 years ago. This study investigates whether the inhabitants of al-Khayran, a Middle PPNB site in west-central Jordan, were intensifying the extraction of animal resources. I examine two different potential indicators of subsistence resource pressure using the faunal remains from al-Khayran - (1) the extraction of marrow and/or bone grease, which suggests the experience of resource pressure by producers; and (2) an increased acquisition of lower ranking faunal species, which is seen as evidence of hunting pressure in the local animal ecology. While results were variable in their significance, no evidence of hunting pressure or resource stress was identified. This suggests that the level of resource stress faced by PPNB producers was not consistent between settlements.
+
+summary: Analysis of Pre-Pottery Neolithic B archeological site al-Khayran, Jordan goat remains. Talk slides available above at PDF link.
+
 tags:
 - Archaeology
 - Zooarchaeology
