@@ -9,8 +9,10 @@ tags:
   - Outreach
 ---
 
-This project aims to pick up on previous work done by Alexandra Boghosian to 3D print the Greenland ice sheet and bedrock in order to convey the sheer amount of ice in Greenland, shape of the continent, and show ocean terminating glaciers.
+Carrying the mantle, as it were.
 
-Along with Jacob Anderson and Alexandra Boghosian, I aim to recreate the Greenland print at a higher fidelity with an updated pipeline, as well as develop a 3D print for Antarctica. 
+This project picks up on previous work done by Dr. Alexandra Boghosian in 2015 to 3D print the Greenland ice sheet and bedrock. Creating physical 3D representations of ice thickness and complex subglacial terrain could have such an impact on polar outreach. These nested 3D prints give a tangible explanation to how Greenland is shaped top-to-bottom and how that makes it vulnerable to change.
+
+Jacob Anderson, Alexandra Boghosian, and I have teamed up to recreate the Greenland print at a higher fidelity with an open accessible pipeline. Once we develop this new system, we aim to 3D print Antarctica in the same way. 
 
 <!--more-->

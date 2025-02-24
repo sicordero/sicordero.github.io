@@ -8,6 +8,8 @@ tags:
   - Data Visualization
 ---
 
-Interpreting layers in ice-penetrating radar data is time consuming and sometimes pendantic. However, if you enjoy pattern recognition puzzles, you may enjoy it and start to identify structures that could have been overlooked. Creating new ways to look at radar 
+Ice-penetrating radar is a niche, but universally accessible visual dataset. 
+
+Working with ice-penetrating radar data is complicated, time consuming, and often times pedantic. However, if you enjoy pattern recognition puzzles, or 3D puzzles, you may enjoy it. 
 
 <!--more-->
