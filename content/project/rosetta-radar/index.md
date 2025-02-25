@@ -8,6 +8,6 @@ tags:
   - Data Visualization
 ---
 
-Using Google Earth to showcase the ROSETTA-Ice Project ice-penetrating radar dataset.
+View a catalogue of the ROSETTA-Ice project ice-penetrating radar dataset in Google Earth.
 
 <!--more-->

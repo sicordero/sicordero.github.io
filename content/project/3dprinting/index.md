@@ -9,7 +9,7 @@ tags:
   - Outreach
 ---
 
-Carrying the mantle, as it were.
+Carrying the mantle, as it were. Creating open and easy methods to 3D print high resolution bedrock and ice sheet volume for nested components.
 
 This project picks up on previous work done by Dr. Alexandra Boghosian in 2015 to 3D print the Greenland ice sheet and bedrock. Creating physical 3D representations of ice thickness and complex subglacial terrain could have such an impact on polar outreach. These nested 3D prints give a tangible explanation to how Greenland is shaped top-to-bottom and how that makes it vulnerable to change.
 

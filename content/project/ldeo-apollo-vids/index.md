@@ -7,6 +7,6 @@ tags:
   - Science Education
 ---
 
-Vignette videos made for LDEO's Open House Exhibit for the 50th Anniversary of the Moon Landing. Maybe revisit and edit one day.
+Videos made for LDEO's Open House 50th Anniversary of the Moon Landing Exhibit to celebrate Lamont's contribution to Lunar research. Revisit one day.
 
 <!--more-->

@@ -9,6 +9,6 @@ tags:
 
 ---
 
-Navigate this Google Earth project showcasing The Beardmore Basal Body (BBB) - a feature found in radar data from the Ross Ice Shelf, Antarctica.
+View a Google Earth catalogue of radar frames that capture The BBB in the Ross Ice Shelf, Antarctica.
 
 <!--more-->
