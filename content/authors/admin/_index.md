@@ -157,15 +157,15 @@ skills:
   - name: Technical Skills
     items:
       - name: Office Suite
-        description: ''
+        description: 'Microsoft, Google, Libre, Apple'
         percent: 85
         icon: document-text
       - name: Python
-        description: ''
+        description: 'pandas, scipy, matplotlib'
         percent: 50
         icon: code-bracket
       - name: SQL
-        description: ''
+        description: 'RazorSQL'
         percent: 30
         icon: circle-stack
   - name: Hobbies
@@ -173,17 +173,17 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Sid Meier's Civilization VI
-        description: ''
+        description: 'One steam game to rule them all.'
         percent: 70
         icon: computer-desktop
       - name: Premier League Football
         description: 'Manchester United until I die.'
         percent: 100
         icon: globe-americas
-      #- name: Kvetching
-      #  description: ''
-      #  percent: 100
-      #  icon: chat-bubble-left-right
+      - name: Proofreading
+        description: '"*No passion in the world is equal to the passion to alter someone else’s draft.*" - H.G. Wells'
+        percent: 90
+        icon: book-open
 
 languages:
   - name: English

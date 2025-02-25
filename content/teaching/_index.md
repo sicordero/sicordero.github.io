@@ -1,6 +1,6 @@
 ---
-title: Outreach
-summary: My outreach
+title: Projects
+summary: My projects
 type: landing
 
 cascade:
@@ -13,11 +13,11 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Projects
       filters:
         folders:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---
