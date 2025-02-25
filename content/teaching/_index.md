@@ -1,6 +1,6 @@
 ---
-title: Projects
-summary: My projects
+title: Teaching
+summary: My courses
 type: landing
 
 cascade:
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Projects
+      title: Teaching
       filters:
         folders:
           - teaching

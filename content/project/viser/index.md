@@ -1,6 +1,6 @@
 ---
 title: Visualizing Ice Sheets in Extended Reality (VISER)
-date: 2022-08-01
+date: 2018-09-01
 external_link: http://pgg.ldeo.columbia.edu/projects/VISER
 tags:
   - Extended Reality (XR)
@@ -10,6 +10,6 @@ tags:
   - Data Visualization
 ---
 
-Developing novel methods of visualizing ice-penetrating radar data to improve interpretation techniques, and maybe the entire way polar research visualizes their geospatial data.
+Using Extended Reality (XR) to make novel tools for geospatial data visualization and 3D data interpretation.
 
 <!--more-->
