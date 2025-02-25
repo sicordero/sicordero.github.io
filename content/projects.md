@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy working on a variety of projects that keep all of my skills sharp. Here is a selection of my projects over the years.
+      text: I've enjoyed working on a variety of projects in my career. Here are a few of them.
       filters:
         folders:
           - project
