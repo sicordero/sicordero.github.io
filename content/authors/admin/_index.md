@@ -51,7 +51,7 @@ interests:
   - Geospatial Data Visualization
   - Project/Program Managment
   - Archaeology
-  - The NYC MTA
+  - Puzzles
 
 education:
   - area: Academic Advancement
@@ -137,7 +137,7 @@ work:
       Responsibilities include:
       - Coordinate start-to-finish event: roadmap development; vendor coordination; outreach equipment purchases and distribution; outreach display consultation; volunteer support and communication; on-site display set-up; exhibit curation; and resource management.
       - Resolve overarching administrative tasks: expense tracking, budget management, timeline execution, and deliver ramp-up / ramp-down / volunteer feedback reports to committee. 
-  - position: Technical Staff
+  - position: Technical & Administrative Support Staff
     company_name: Polar Geophysics & Glaciology (PGG) Group
     company_url: 'https://pgg.ldeo.columbia.edu/'
     company_logo: ''
