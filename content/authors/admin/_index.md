@@ -41,8 +41,10 @@ profiles:
   #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=eGDyqzIAAAAJ
+    label: Google Scholar
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4187-3281
+    label: ORCiD
 
 interests:
   - Ice-Penetrating Radar
