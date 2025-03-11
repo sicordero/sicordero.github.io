@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Isabel Cordero"
+      filename: "SIC-logo2.svg"
 
 # Site footer
 footer:
