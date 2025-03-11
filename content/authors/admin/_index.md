@@ -50,8 +50,8 @@ interests:
   - Ice-Penetrating Radar
   - Geospatial Data Visualization
   - Project/Program Managment
-  - Archaeology
-  - Puzzles
+  - Archaeology & Anthropology
+  - Science Communication
 
 education:
   - area: Academic Advancement
