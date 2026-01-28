@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-highlights
+  - block: resume-skills
     content:
       title: Core Skills
       username: admin

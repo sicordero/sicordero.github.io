@@ -52,7 +52,7 @@ interests:
   - Archaeology & Anthropology
   - Science Communication
 
-highlights:
+skills:
   - name: Core Skills
     items:
       - name: Pre- and Post-Award Support
