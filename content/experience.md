@@ -10,6 +10,12 @@ design:
 
 # Page sections
 sections:
+  - block: resume-highlights
+    content:
+      title: Core Skills
+      username: admin
+    design:
+      show_skill_percentage: false
   - block: resume-experience
     content:
       username: admin
@@ -18,6 +24,12 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: resume-certifications
+    content:
+      title: Training & Certifications
+      username: admin
+    design:
+      date_format: 'January 2006'
   - block: resume-skills
     content:
       title: Skills & Hobbies

@@ -35,13 +35,16 @@ sections:
       title: '📚 My Research & Background'
       subtitle: ''
       text: |-
-        "<i>People are like gems, right? They have facets to them and some of them only get exposed within certain relationships.</i>"   - Brennan Lee Mulligan
-
-        There's more than one way to look at a problem. My multi-faceted background allows me to be solution oriented and develop quick risk management plans. I enjoy interdisciplinary project management and showcasing my flexible skillsets.
-
-        Currently, I'm interested in expanding the ways geospatial and geophysical data is visualized and interpreted. As Project Manager and Radar Consultant for the [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project, I find myself in a unique situation where I balance the objectivity of management and the passion of an invested stakeholder.
+        "<i>People are like gems, right? They have facets to them and some of them only get exposed within certain relationships.</i>"
         
-        Please reach out to learn more 😃
+        - Brennan Lee Mulligan
+
+        There's more than one way to look at a problem. My multi-faceted background allows me to be solution oriented and showcase my flexible skillsets. I enjoy interdisciplinary project management and scientific discovery because it allows me to work in collaborative spaces where I can simultaneously contribute and grow by watching others flex their expertise.
+
+        Currently, I'm interested in expanding the ways geospatial and geophysical data is visualized and interpreted. As Project Manager and Radar Consultant for the [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project, I find myself in a unique situation where I balance the objectivity of management and the subjectivity of a passionate stakeholder.
+
+        Ice-penetrating radar is a 2-Dimensional data product of a 3-Dimensional structure. With the advancements in head-worn displays and consumer accessible computing power, there is an opportunity to develop immersive 3D geophysical tools. This would allow researchers to move beyond siloed 2D data interpretation and work in a integrative to-scale virtual environment that renders multiple datasets in a 3D space. This wholistic approach to earth science research was born from a common problem: traditional 2D radar data interpretation struggles to include geospatial context. So, Dr. Alexandra Boghosian and I decided to try to change the way we look at radar data. This led to VISER. Same gem. Different facet.
+        
 
     design:
       columns: '1'

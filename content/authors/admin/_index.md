@@ -3,7 +3,7 @@
 title: S. Isabel Cordero
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Iz-ah-bell Kor-deh-roh'
 
 # Full name (for SEO)
 first_name: Isabel
@@ -47,11 +47,31 @@ profiles:
     label: ORCiD
 
 interests:
-  - Ice-Penetrating Radar
-  - Geospatial Data Visualization
   - Project/Program Managment
+  - Geospatial Data Visualization
   - Archaeology & Anthropology
   - Science Communication
+
+highlights:
+  - name: Core Skills
+    items:
+      - name: Pre- and Post-Award Support
+        description: 'Proposal Coordination, Budget Development, Effort Reporting, Annual Reporting, Expense Reconciliaiton'
+        percent: 85
+        icon: document-text
+      - name: Program & Project Management
+        description: 'Sponsored Research Operation Coordination, Roadmap Development, Onboarding, Offboarding, Project Reporting, Documentation Curation'
+        percent: 85
+        icon: document-text
+      - name: Academic Scientific Contribution 
+        description: 'Data Analysis, Data Interpretation, Data Visualization, Proofreading, Copy Editing, Figure Development'
+        percent: 85
+        icon: document-text
+      - name: Event Coordination
+        description: 'Vendor Coordination, Budget Tracking, Budget Reconciliation, Stakeholder Communication'
+        percent: 85
+        icon: document-text
+
 
 education:
   - area: Academic Advancement
@@ -59,16 +79,14 @@ education:
     date_start: 2021-06-01
     date_end: 2021-07-31
     summary: |
-      Completed Calculus I during condensed summer semester. Transcript available upon request.
+      Completed Calculus I during condensed summer semester.
   - area: B.A. in Anthropology (Archaeology)
     institution: Skidmore College
     date_start: 2011-09-01
     date_end: 2016-01-01
     summary: |
       Presented capstone research at 2015 Northeastern Anthropological Association Conference.
-      Developed skills in: archeological fieldwork; ethnographic research; bio & zooarchaeology; artifact handling & cataloging; ArcGIS; event organization, management, & execution; budget & inventory management; public relations; copy editing; creative writing; academic research.
-      
-      Transcript available upon request.
+      Developed skills in: archeological fieldwork; ethnographic research; bio & zooarchaeology; artifact handling & cataloging; ArcGIS; event organization, management, & execution; budget & inventory management; public relations; copy editing; proofreading; creative writing; academic research.      
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -80,7 +98,7 @@ work:
     date_start: 2023-07-01
     date_end: ''
     summary: |
-      Develop and execute roadmap for Antarctic fieldwork deployment. Lead risk assessment and contingency planning. Routine check-ins and KPI assessments. Point of contact for British Antarctic Survey (BAS), United States Antarctic Program (USAP), and EarthScope regarding project logistics and field requirements. Weekly reports and timeline assessments with FRAM project collaborators: University of Northumbria and University of Sheffield.
+      Develop and execute roadmap for Antarctic fieldwork deployment. Lead risk assessment and contingency planning. Routine check-ins and KPI assessments. Point of contact for British Antarctic Survey (BAS), United States Antarctic Program (USAP), and EarthScope regarding project logistics and field requirements. Weekly reports and timeline assessments with international FRAM Project collaborators. Executed annual Antarctic field instrumentation and cargo shipments throughout fieldwork. Familiar with United Kingdom and U.S. Commodity Codes, shipping regulations, and Antarctic Program paperwork.
       
       Responsibilities include:
       - Execute mission-critical tasks: Antarctic fieldwork equipment acquisition, preparation, packing, and international shipping; purchase order fulfillment; insurance department liaising; detailed inventory documentation; deliverable prioritization; and, federal proforma administration. 
@@ -158,17 +176,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Office Suite
+      - name: Office Suites
         description: 'Microsoft, Google, Libre, Apple'
-        percent: 85
+        #percent: 85
         icon: document-text
       - name: Python
         description: 'pandas, scipy, matplotlib'
-        percent: 50
+        #percent: 50
         icon: code-bracket
       - name: SQL
         description: 'RazorSQL'
-        percent: 30
+        #percent: 30
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -176,16 +194,44 @@ skills:
     items:
       - name: Sid Meier's Civilization VI
         description: 'One steam game to rule them all.'
-        percent: 70
+        #percent: 70
         icon: computer-desktop
       - name: Premier League Football
         description: 'Manchester United until I die.'
-        percent: 100
+        #percent: 100
         icon: globe-americas
       - name: Proofreading
         description: '"*No passion in the world is equal to the passion to alter someone else’s draft.*" - H.G. Wells'
-        percent: 90
+        #percent: 90
         icon: book-open
+
+certifications:
+  - name: Certifications & Training
+    items:
+      - name: Compensation, Sponsored Projects and Effort Reporting (TC0068)
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        date_start: 2026-01-13
+        icon: book-open
+      - name: PMI-ACP® Exam Preparation
+        description: 'LinkedIn Learning "Cert Prep: PMI Agile Certified Practitioner (PMI-ACP®)" Program: PMI® Registered Education Provider | Provider ID: 4101.'
+        date_start: 2023-05-11
+        icon: computer-desktop
+      - name: Project Management Essentials for the Unofficial Project Manager
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        date_start: 2022-11-01
+        icon: book-open
+      - name: Essential Lessons for First-Time Managers
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        date_start: 2023-05-10
+        icon: computer-desktop
+      - name: Concur Travel and Expense Training
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        percent: 2024-04-16
+        icon: book-open
+      - name: Hands-On Introduction to SQL
+        description: 'LinkedIn Learning'
+        date_start: 2023-03-21
+        icon: computer-desktop
 
 languages:
   - name: English
@@ -253,4 +299,7 @@ awards:
 
 ## About
 
-Isabel is a lifelong New Yorker with an interdisciplinary background. Her skills in event coordination, inclusionary project management, ice-penetrating radar interpretation, and copy-editing have shaped the way she approaches scientific research support.
+Isabel works behind the scenes of academic research, supporting interdisciplinary projects through data analysis and administrative coordination. Her background includes over eight years of experience within a university research environment where she works across federally funded programs, student-driven initiatives, and community-facing outreach. 
+
+As a native New Yorker with an interdisciplinary and varied background, Isabel is a flexible problem solver. She can step into an unfamiliar role, understand what’s needed, and begin addressing tasks to support the work. She has carved out a unique position in which she can simultaneously contribute both scientifically and operationally to long-term projects. 
+
