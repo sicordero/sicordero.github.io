@@ -52,26 +52,6 @@ interests:
   - Archaeology & Anthropology
   - Science Communication
 
-skills:
-  - name: Core Skills
-    items:
-      - name: Pre- and Post-Award Support
-        description: 'Proposal Coordination, Budget Development, Effort Reporting, Annual Reporting, Expense Reconciliaiton'
-        percent: 85
-        icon: document-text
-      - name: Program & Project Management
-        description: 'Sponsored Research Operation Coordination, Roadmap Development, Onboarding, Offboarding, Project Reporting, Documentation Curation'
-        percent: 85
-        icon: document-text
-      - name: Academic Scientific Contribution 
-        description: 'Data Analysis, Data Interpretation, Data Visualization, Proofreading, Copy Editing, Figure Development'
-        percent: 85
-        icon: document-text
-      - name: Event Coordination
-        description: 'Vendor Coordination, Budget Tracking, Budget Reconciliation, Stakeholder Communication'
-        percent: 85
-        icon: document-text
-
 
 education:
   - area: Academic Advancement
@@ -91,6 +71,24 @@ education:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
 work:
+  - name: Core Skills
+      items:
+        - name: Pre- and Post-Award Support
+          description: 'Proposal Coordination, Budget Development, Effort Reporting, Annual Reporting, Expense Reconciliaiton'
+          percent: 85
+          icon: document-text
+        - name: Program & Project Management
+          description: 'Sponsored Research Operation Coordination, Roadmap Development, Onboarding, Offboarding, Project Reporting, Documentation Curation'
+          percent: 85
+          icon: document-text
+        - name: Academic Scientific Contribution 
+          description: 'Data Analysis, Data Interpretation, Data Visualization, Proofreading, Copy Editing, Figure Development'
+          percent: 85
+          icon: document-text
+        - name: Event Coordination
+          description: 'Vendor Coordination, Budget Tracking, Budget Reconciliation, Stakeholder Communication'
+          percent: 85
+          icon: document-text
   - position: Project Logistics Coordinator
     company_name: NERC NSF Antarctic Peninsula Melt Dynamics (FRAM)
     company_url: 'https://ldeo-glaciology.github.io/AntPen_NSF_NERC/'
@@ -174,7 +172,37 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+  - name: Certifications & Training
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Compensation, Sponsored Projects and Effort Reporting (TC0068)
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        date_start: 2026-01-13
+        icon: book-open
+      - name: PMI-ACP® Exam Preparation
+        description: 'LinkedIn Learning "Cert Prep: PMI Agile Certified Practitioner (PMI-ACP®)" Program: PMI® Registered Education Provider | Provider ID: 4101.'
+        date_start: 2023-05-11
+        icon: computer-desktop
+      - name: Project Management Essentials for the Unofficial Project Manager
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        date_start: 2022-11-01
+        icon: book-open
+      - name: Essential Lessons for First-Time Managers
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        date_start: 2023-05-10
+        icon: computer-desktop
+      - name: Concur Travel and Expense Training
+        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
+        date: 2024-04-16
+        icon: book-open
+      - name: Hands-On Introduction to SQL
+        description: 'LinkedIn Learning'
+        date_start: 2023-03-21
+        icon: computer-desktop
   - name: Technical Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Office Suites
         description: 'Microsoft, Google, Libre, Apple'
@@ -204,34 +232,6 @@ skills:
         description: '"*No passion in the world is equal to the passion to alter someone else’s draft.*" - H.G. Wells'
         #percent: 90
         icon: book-open
-
-skills:
-  - name: Certifications & Training
-    items:
-      - name: Compensation, Sponsored Projects and Effort Reporting (TC0068)
-        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
-        date_start: 2026-01-13
-        icon: book-open
-      - name: PMI-ACP® Exam Preparation
-        description: 'LinkedIn Learning "Cert Prep: PMI Agile Certified Practitioner (PMI-ACP®)" Program: PMI® Registered Education Provider | Provider ID: 4101.'
-        date_start: 2023-05-11
-        icon: computer-desktop
-      - name: Project Management Essentials for the Unofficial Project Manager
-        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
-        date_start: 2022-11-01
-        icon: book-open
-      - name: Essential Lessons for First-Time Managers
-        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
-        date_start: 2023-05-10
-        icon: computer-desktop
-      - name: Concur Travel and Expense Training
-        description: 'Training course offered via Columbia University Research Administration System (https://www.rascal.columbia.edu)'
-        percent: 2024-04-16
-        icon: book-open
-      - name: Hands-On Introduction to SQL
-        description: 'LinkedIn Learning'
-        date_start: 2023-03-21
-        icon: computer-desktop
 
 languages:
   - name: English

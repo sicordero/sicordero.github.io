@@ -10,12 +10,6 @@ design:
 
 # Page sections
 sections:
-  - block: resume-skills
-    content:
-      title: Core Skills
-      username: admin
-    design:
-      show_skill_percentage: false
   - block: resume-experience
     content:
       username: admin
@@ -26,16 +20,11 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Training & Certifications
-      username: admin
-    design:
-      date_format: 'January 2006'
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
+      title: Skills, Training, & Hobbies
       username: admin
     design:
       show_skill_percentage: false
+      date_format: 'January 2006'
   - block: resume-awards
     content:
       title: Fieldwork
