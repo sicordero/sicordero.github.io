@@ -289,36 +289,31 @@ awards:
     awarder: Columbia University Research Administration System
     #icon: coursera
     summary: |
-      ..
-  
+      Lorem ipsum
   - title: Cert Prep: PMI Agile Certified Practitioner (PMI-ACP)
     url: https://www.linkedin.com/learning/cert-prep-pmi-agile-certified-practitioner-pmi-acp/
     date: '2023-05-11'
     awarder: Columbia University - LinkedIn Learning Program
     summary: |
       Program: PMI Registered Education Provider | Provider ID: 4101
-
   - title: Hands-On Introduction: SQL
     url: https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql
     date: '2023-03-21'
     awarder: Columbia University - LinkedIn Learning Program
     summary: |
       ..
-
   - title: Project Management Essentials for the Unofficial Project Manager
     url: https://archaeology.institute/
     date: '2022-11-01'
     awarder: Columbia University - Learning & Development Department
     summary: |
       ..
-
   - title: Essential Lessons for First-Time Managers
     url: https://www.linkedin.com/learning/essential-lessons-for-first-time-managers/
     date: '2023-05-10'
     awarder: Columbia University - LinkedIn Learning Program
     summary: |
       ..
-
   - title: Concur Travel and Expense Training
     url: 
     date: '2024-04-16'
