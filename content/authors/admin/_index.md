@@ -214,23 +214,23 @@ languages:
   - name: Yiddish
     percent: 10
 
-# Awards. CHANGED TO FIELDWORK
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Geophysical Field Intern
-    url: https://bafs.ie/
-    date: '2018-04-01'
-    awarder: Blackfriary Archaeology Field School
+fieldwork:
+  - position: Geophysical Field Assistant
+    company_name: Blackfriary Archaeology Field School
+    company_url: 'https://bafs.ie/'
+    #company_logo: ''
+    date_start: 2018-04-01
+    #date_end: ''
     location: Trim, Ireland
-    #icon: coursera
     summary: |
-      Assisted PhD Ashely Green (Bournemouth University), in consortium with the Blackfriary Community Heritage and Archaeology Project, with geophysical field survey of potential burial site using resistance meter, magnetometer, and ground penetrating radar (GPR) sensors. Completed preliminary data processing with DraftSight, Snuffler, and GPR-Slice.
-  - title: Ice-Penetrating Radar QC & Field Support
-    url: http://pgg.ldeo.columbia.edu/projects/rosetta-ice
-    date: '2016-11-05'
-    awarder: ROSETTA-Ice Project
+        Assisted PhD Ashely Green (Bournemouth University), in consortium with the Blackfriary Community Heritage and Archaeology Project, with geophysical field survey of potential burial site using resistance meter, magnetometer, and ground penetrating radar (GPR) sensors. Completed preliminary data processing with DraftSight, Snuffler, and GPR-Slice.
+
+  - position: Ice-Penetrating Radar QC & Field Support
+    company_name: ROSETTA-Ice Project | Lamont-Doherty Earth Observatory
+    company_url: 'http://pgg.ldeo.columbia.edu/projects/rosetta-ice'
+    #company_logo: ''
+    date_start: 2016-11-05
+    date_end: 2017-12-14
     location: McMurdo Station, Antarctica
     summary: |2-
       Field team member for ROSETTA-Ice Project - an interdisciplinary, airborne, geophysical survey of the Ross Ice Shelf in Antarctica. Institutional collaborators: Lamont-Doherty Earth Observatory at Columbia University, Scripps Institute of Oceanography, Colorado College, U.S. Geological Survey, and Earth & Space Research.
@@ -242,31 +242,89 @@ awards:
       - Shallow Ice Radar (SIR)
       - Magnetometer (MAG)
       - GPS systems (POD-INS/SPAN)
-  - title: Bioarchaeology Field Student
-    url: https://bafs.ie/
-    date: '2015-06-01'
-    awarder: Blackfriary Archaeology Field School
+
+  - position: Bioarchaeology Field Student
+    company_name: Blackfriary Archaeology Field School
+    company_url: 'https://bafs.ie/'
+    #company_logo: ''
+    date_start: 2015-06-01
+    date_end: '2015-08-07'
     location: Trim, Ireland
     summary: |2-
-      Participated in excavation of the medieval Blackfriary Community Heritage Site. Fieldwork included: site surveyal; heritage site conduct; burial excavation; osteology; artifact cleaning, cataloguing, and analysis; inventory management; science communication; community outreach; subsistence method research and presentation. 
-      
-      Blackfriary Archaeology Field School at the time was part of the [Irish Archaeology Field School](https://iafs.ie/). Enrolled through the [Institute for Field Research](https://ifrglobal.org/), which provides academic credit through Connecticut College. Credits appear on Skidmore College academic transcript - available upon request.
-  - title: GIS & Bioarchaeology Field Student
-    url: https://archaeology.institute/
-    date: '2014-06-15'
-    awarder: Sanisera Archaeological Institute for International Field Schools
+       Participated in excavation of the medieval Blackfriary Community Heritage Site. Fieldwork included: site surveyal; heritage site conduct; burial excavation; osteology; artifact cleaning, cataloguing, and analysis; inventory management; science communication; community outreach; subsistence method research and presentation. 
+       
+       Blackfriary Archaeology Field School at the time was part of the [Irish Archaeology Field School](https://iafs.ie/). Enrolled through the [Institute for Field Research](https://ifrglobal.org/), which provides academic credit through Connecticut College. Credits appear on Skidmore College academic transcript - available upon request. 
+
+  - position: GIS & Bioarchaeology Field Student
+    company_name: Sanisera Archaeological Institute for International Field Schools
+    company_url: 'https://archaeology.institute/'
+    #company_logo: ''
+    date_start: 2014-06-15
+    date_end: '2014-08-15'
     location: Menorca, Spain
     summary: |2-
       Participated in excavation of early-Christian, Roman, port city in Menorca, Spain. Fieldwork included: necropolis excavation, osteology instruction, heritage site conduct, field site mapping and digitization (ArcGIS, QGIS).
-      
+        
       Received Sanisera Archaeological Institute certification for GIS & Bioarcheology work. Available upon request.
-  - title: Archaeology Student
-    url: https://archaeology.institute/
-    date: '2013-10-01'
-    awarder: Skidmore College Excavation of Woodlawn Estate
-    location: Saratoga Springs, NY
+
+  - position: Archaeology Studeny
+    company_name: Skidmore College Excavation of Woodlawn Estate
+    company_url: 'https://archaeology.institute/'
+    #company_logo: ''
+    date_start: 2013-10-01
+    date_end: '2013-12-21'
+    location: Saratoga Springs, New York  USA
     summary: |2-
-      Participated in ongoing excavation of the former Woodlawn Estate located in the Northwoods of Skidmore College, led by Dr. Heather Hurst, as part of the Archaeology Research & Methods course. Included: land & site surveys; soil identification; artifact cleaning, cataloguing, and analysis; excavation techniques; science communication.
+        Participated in ongoing excavation of the former Woodlawn Estate located in the Northwoods of Skidmore College, led by Dr. Heather Hurst, as part of the Archaeology Research & Methods course. Included: land & site surveys; soil identification; artifact cleaning, cataloguing, and analysis; excavation techniques; science communication.
+
+
+# Awards. Switched to Training & Certifications
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Compensation, Sponsored Projects, and Effort Reporting (TC0068)
+    url: https://www.rascal.columbia.edu
+    date: '2026-01-13'
+    awarder: Columbia University Research Administration System
+    #icon: coursera
+    summary: |
+      ..
+  
+  - title: Cert Prep: PMI Agile Certified Practitioner (PMI-ACP)®
+    url: https://www.linkedin.com/learning/cert-prep-pmi-agile-certified-practitioner-pmi-acp/
+    date: '2023-05-11'
+    awarder: Columbia University - LinkedIn Learning Program
+    summary: |
+      Program: PMI® Registered Education Provider | Provider ID: 4101
+
+  - title: Hands-On Introduction: SQL
+    url: https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql
+    date: '2023-03-21'
+    awarder: Columbia University - LinkedIn Learning Program
+    summary: |
+      ..
+
+  - title: Project Management Essentials for the Unofficial Project Manager
+    url: https://archaeology.institute/
+    date: '2022-11-01'
+    awarder: Columbia University - Learning & Development Department
+    summary: |
+      ..
+
+  - title: Essential Lessons for First-Time Managers
+    url: https://www.linkedin.com/learning/essential-lessons-for-first-time-managers/
+    date: '2023-05-10'
+    awarder: Columbia University - LinkedIn Learning Program
+    summary: |
+      ..
+
+  - title: Concur Travel and Expense Training
+    url: 
+    date: '2024-04-16'
+    awarder: Columbia University - Learning & Development Department
+    summary: |
+      ..
 
 ---
 

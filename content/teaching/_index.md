@@ -1,5 +1,5 @@
 ---
-title: Training & Certifications
+title: Teaching
 summary: Training courses I've completed while pursuing professional development.
 type: landing
 
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: training
+    id: teaching
     content:
-      title: Training
+      title: Teaching
       filters:
         folders:
-          - training
+          - teaching
     design:
       view: article-grid
       columns: 3
