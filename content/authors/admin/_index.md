@@ -224,7 +224,6 @@ fieldwork:
     location: Trim, Ireland
     summary: |
         Assisted PhD Ashely Green (Bournemouth University), in consortium with the Blackfriary Community Heritage and Archaeology Project, with geophysical field survey of potential burial site using resistance meter, magnetometer, and ground penetrating radar (GPR) sensors. Completed preliminary data processing with DraftSight, Snuffler, and GPR-Slice.
-
   - position: Ice-Penetrating Radar QC & Field Support
     company_name: ROSETTA-Ice Project | Lamont-Doherty Earth Observatory
     company_url: 'http://pgg.ldeo.columbia.edu/projects/rosetta-ice'
@@ -242,7 +241,6 @@ fieldwork:
       - Shallow Ice Radar (SIR)
       - Magnetometer (MAG)
       - GPS systems (POD-INS/SPAN)
-
   - position: Bioarchaeology Field Student
     company_name: Blackfriary Archaeology Field School
     company_url: 'https://bafs.ie/'
@@ -254,7 +252,6 @@ fieldwork:
        Participated in excavation of the medieval Blackfriary Community Heritage Site. Fieldwork included: site surveyal; heritage site conduct; burial excavation; osteology; artifact cleaning, cataloguing, and analysis; inventory management; science communication; community outreach; subsistence method research and presentation. 
        
        Blackfriary Archaeology Field School at the time was part of the [Irish Archaeology Field School](https://iafs.ie/). Enrolled through the [Institute for Field Research](https://ifrglobal.org/), which provides academic credit through Connecticut College. Credits appear on Skidmore College academic transcript - available upon request. 
-
   - position: GIS & Bioarchaeology Field Student
     company_name: Sanisera Archaeological Institute for International Field Schools
     company_url: 'https://archaeology.institute/'
@@ -266,7 +263,6 @@ fieldwork:
       Participated in excavation of early-Christian, Roman, port city in Menorca, Spain. Fieldwork included: necropolis excavation, osteology instruction, heritage site conduct, field site mapping and digitization (ArcGIS, QGIS).
         
       Received Sanisera Archaeological Institute certification for GIS & Bioarcheology work. Available upon request.
-
   - position: Archaeology Studeny
     company_name: Skidmore College Excavation of Woodlawn Estate
     company_url: 'https://archaeology.institute/'

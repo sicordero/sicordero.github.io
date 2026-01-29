@@ -18,7 +18,7 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-experience
+  - block: resume-fieldwork
     content:
       title: Fieldwork
       username: admin
@@ -37,14 +37,14 @@ sections:
       username: admin
     design:
       date_format: 'January 2006'
-      background:
-        color: ""
-        gradient_start: "#4f46e5"
-        gradient_end: "#7c3aed"
-        text_color_light: true
-      spacing:
-        padding: ["6", "6", "6", "6"]
-      columns: "1"
+      #background:
+      #  color: ""
+      #  gradient_start: "#4f46e5"
+      #  gradient_end: "#7c3aed"
+      #  text_color_light: true
+      #spacing:
+      #  padding: ["6", "6", "6", "6"]
+      #columns: "1"
   - block: resume-languages
     content:
       title: Languages
