@@ -205,7 +205,7 @@ skills:
         #percent: 90
         icon: book-open
 
-certifications:
+skills:
   - name: Certifications & Training
     items:
       - name: Compensation, Sponsored Projects and Effort Reporting (TC0068)
