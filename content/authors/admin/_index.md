@@ -291,12 +291,12 @@ awards:
     summary: |
       ..
   
-  - title: Cert Prep: PMI Agile Certified Practitioner (PMI-ACP)®
+  - title: Cert Prep: PMI Agile Certified Practitioner (PMI-ACP)
     url: https://www.linkedin.com/learning/cert-prep-pmi-agile-certified-practitioner-pmi-acp/
     date: '2023-05-11'
     awarder: Columbia University - LinkedIn Learning Program
     summary: |
-      Program: PMI® Registered Education Provider | Provider ID: 4101
+      Program: PMI Registered Education Provider | Provider ID: 4101
 
   - title: Hands-On Introduction: SQL
     url: https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql
