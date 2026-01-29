@@ -72,23 +72,23 @@ education:
     #  url: 'https://example.com'
 work:
   - name: Core Skills
-      items:
-        - name: Pre- and Post-Award Support
-          description: 'Proposal Coordination, Budget Development, Effort Reporting, Annual Reporting, Expense Reconciliaiton'
-          percent: 85
-          icon: document-text
-        - name: Program & Project Management
-          description: 'Sponsored Research Operation Coordination, Roadmap Development, Onboarding, Offboarding, Project Reporting, Documentation Curation'
-          percent: 85
-          icon: document-text
-        - name: Academic Scientific Contribution 
-          description: 'Data Analysis, Data Interpretation, Data Visualization, Proofreading, Copy Editing, Figure Development'
-          percent: 85
-          icon: document-text
-        - name: Event Coordination
-          description: 'Vendor Coordination, Budget Tracking, Budget Reconciliation, Stakeholder Communication'
-          percent: 85
-          icon: document-text
+    items:
+      - name: Pre- and Post-Award Support
+        description: 'Proposal Coordination, Budget Development, Effort Reporting, Annual Reporting, Expense Reconciliaiton'
+        percent: 85
+        icon: document-text
+      - name: Program & Project Management
+        description: 'Sponsored Research Operation Coordination, Roadmap Development, Onboarding, Offboarding, Project Reporting, Documentation Curation'
+        percent: 85
+        icon: document-text
+      - name: Academic Scientific Contribution 
+        description: 'Data Analysis, Data Interpretation, Data Visualization, Proofreading, Copy Editing, Figure Development'
+        percent: 85
+        icon: document-text
+      - name: Event Coordination
+        description: 'Vendor Coordination, Budget Tracking, Budget Reconciliation, Stakeholder Communication'
+        percent: 85
+        icon: document-text
   - position: Project Logistics Coordinator
     company_name: NERC NSF Antarctic Peninsula Melt Dynamics (FRAM)
     company_url: 'https://ldeo-glaciology.github.io/AntPen_NSF_NERC/'
