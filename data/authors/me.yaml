@@ -2,103 +2,154 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: S. Isabel Cordero
+  given: Isabel
+  family: Cordero
+  #alternate: ''  # Example: 王伟
+  pronunciation: 'Iz ah bell Kor deh roh'  # Example: Wáng Wěi
+  pronouns: she/her
+# postnominals:
+#   - PhD
+#   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Scientific Support Staff
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+    Isabel works in academic research supporting interdisciplinary projects through data analysis and administrative coordination. 
+    Her background includes over eight years of experience within a university research environment where she works across federally funded programs, 
+    student-driven initiatives, and community-facing outreach. 
+    As a native New Yorker with an interdisciplinary and varied background, Isabel is a flexible problem solver. She can step into an unfamiliar role, 
+    understand what is needed, and begin addressing tasks to support the work. She has carved out a unique position in which she can 
+    simultaneously contribute both scientifically and operationally to long-term projects. 
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Lamont-Doherty Earth Observatory
+    url: https://lamont.columbia.edu/
+  - name: Polar Geophysics & Glaciology Group
+    url: https://pgg.ldeo.columbia.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:scordero@ldeo.columbia.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+  #- icon: brands/x
+  #  url: https://x.com/example
+  #- icon: brands/github
+  #  url: https://github.com/example
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=eGDyqzIAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-4187-3281
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Project/Program Management
+  - Computer Vision & Geospatial Data Viz
+  - Archaeology & Anthropology
+  - Science Communication
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Academic Advancement Certificate
+    institution: Columbia University School of Prof. Studies
+    date_start: 2021-06-01
+    date_end: 2021-07-31
+  - degree: BA Anthropology (Archaeology)
+    institution: Skidmore College
+    date_start: 2011-09-01
+    date_end: 2016-01-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Presented capstone research at 2015 Northeastern Anthropological Association Conference.
+      Developed skills in: archeological fieldwork; ethnographic research; bio & zooarchaeology; 
+      artifact handling & cataloging; ArcGIS; event organization, management, & execution; 
+      budget & inventory management; public relations; copy editing; proofreading; creative writing; 
+      academic research.  
+    #button:
+    #  text: Download dissertation
+    #  url: /resume.pdf
+    #  icon: hero/arrow-down-tray
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Scientist & Project Manager
+    org: Unnamed Eqip Sermia, Greenland Project
+    date_start: 2025-01-15
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Lorem ipsum...
+  - role: Project Logistics Coordinator
+    org: NERC NSF Antarctic Peninsula Melt Dynamics (FRAM)
+    org_url: 'https://ldeo-glaciology.github.io/AntPen_NSF_NERC/'
+    date_start: 2023-07-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Provide end-to-end support for field logistics and operations for FRAM fieldwork in coordination with international partners and instrument manufacturers (sub-awardees), as well as international government Antarctic program offices.
+      * Post Award Management: budget reconciliation, project purchasing, effort reporting
+      * Project Management: Develop roadmap, form risk assesments, weekly timeline and kpi assessments, ramp up
+      * Antarctic Logisitcs: British Antarctic Survey (BAS) Bills of Lading (BOL), 
+      United States Antarctic Program (USAP) proforma, Interinational & U.S. Commodity Codes, 
+      instrument Shipping regulations, Antarctic Treaty compliance
+    #button:
+    #  text: View portfolio
+    #  url: /
+    #  icon: hero/arrow-down-tray
+  - role: Curator & Data Repository Manager
+    org: United States Antarctic Data Center (USAP-DC)
+    org_url: 'https://www.usap-dc.org/'
+    date_start: 2023-01-01
+    summary: |
+      Support National Science Foundation (NSF) Office of Polar Programs (OPP) Antarctic Researchers with project registration and digital data obligations.
+      * Post Award Management: federal data obligation support, FAIR data assessments, NCAR reporting, annual reporting
+      * Project Management: manage documentation, timeline assessments, manage SQL database, adjudicate data repository submissions, stakeholder management, stakeholder communication
+      * Science Communication: host annual introductory webinar (2024, 2025, 2026), develop outreach materials, revise user guidelines, develop & deliver poster presentations
+  - role: Project Manager
+    org: [Visualizing Ice Sheets in Extended Reality (VISER)](https://pgg.ldeo.columbia.edu/projects/VISER)
+    date_start: 2022-09-01
+    summary: |
+      Lorem ipsum...
+  - role: Radar Consultant
+    org: Visualizing Ice Sheets in Extended Reality (VISER)
+    org_url: 'https://pgg.ldeo.columbia.edu/projects/VISER'
+    date_start: 2018-08-01
+    date_end: 2022-08-31
+    summary: |
+      Lorem ipsum...
+  - role: Event Organizer for Marine & Polar Geophysics (MPG) Division
+    org: Lamont-Doherty Earth Observatory (LDEO) Annual Open House
+    org_url: 'https://openhouse.ldeo.columbia.edu/'
+    date_start: 2022-08-01    
+    date_end: 2024-10-31
+    summary: |
+      Lorem ipsum...
+  - role: Technical & Administrative Support Staff
+    org: Polar Geophysics & Glaciology (PGG) Group
+    org_url: 'https://pgg.ldeo.columbia.edu/'
+    date_start: 2016-07-01
+    summary: |
+      Lorem ipsum...
 
 skills:
   - name: Technical Skills
     items:
+      - label: Office Suites
+        level: 5
       - label: Python
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: SQL
         level: 4
   - name: Research & Communication
     items:
-      - label: Academic Writing
-        level: 5
       - label: Conference Presentations
+        level: 5
+      - label: Science Project Management
         level: 4
       - label: Grant Proposals
+        level: 2
+  - name: Hobbies
+    items:
+      - label: TBD
+        level: 5
+      - label: TBD
         level: 4
+      - label: TBD
+        level: 2
 
 languages:
   - name: English
@@ -106,10 +157,13 @@ languages:
     label: Native
   - name: Spanish
     level: 4
-    label: Fluent
+    label: Advanced
+  - name: Yiddish
+    level: 1
+    label: Native New Yorker
 
 awards:
-  - title: Best Paper Award
+  - title: LOREM IPSUM
     awarder: NeurIPS
     date: "2022-12-01"
     summary: Awarded for groundbreaking work on efficient training of large models.
