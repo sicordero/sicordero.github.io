@@ -100,7 +100,8 @@ experience:
       * Project Management: manage documentation, timeline assessments, manage SQL database, adjudicate data repository submissions, stakeholder management, stakeholder communication
       * Science Communication: host annual introductory webinar (2024, 2025, 2026), develop outreach materials, revise user guidelines, develop & deliver poster presentations
   - role: Project Manager
-    org: [Visualizing Ice Sheets in Extended Reality (VISER)](https://pgg.ldeo.columbia.edu/projects/VISER)
+    org: Visualizing Ice Sheets in Extended Reality (VISER)
+    org_url: https://pgg.ldeo.columbia.edu/projects/VISER
     date_start: 2022-09-01
     summary: |
       Lorem ipsum...
