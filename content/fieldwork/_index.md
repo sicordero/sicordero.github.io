@@ -4,11 +4,11 @@ summary: Archaeological and Geophysical field experience I've completed througho
 type: landing
 # ONLY fieldwork entries here
 sections:
-  - block: markdown
+  - block: html
     content:
       title: "Field Locations"
       text: |
-        TEST SHORTCODE BELOW:
+        <div id="fieldwork-map" style="height: 500px;"></div>
         {{< fieldwork-map-data >}}
 
   - block: collection
