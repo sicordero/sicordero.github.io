@@ -15,12 +15,10 @@ status:
   icon: "☕️"
 role: Scientific Support Staff
 bio: |
-    Isabel works in academic research supporting interdisciplinary projects through data analysis and administrative coordination. 
-    Her background includes over eight years of experience within a university research environment where she works across federally funded programs, 
-    student-driven initiatives, and community-facing outreach. 
-    As a native New Yorker with an interdisciplinary and varied background, Isabel is a flexible problem solver. She can step into an unfamiliar role, 
-    understand what is needed, and begin addressing tasks to support the work. She has carved out a unique position in which she can 
-    simultaneously contribute both scientifically and operationally to long-term projects. 
+    Isabel supports interdisciplinary academic research through data analysis and project coordination. 
+    With over eight years of experience in university research environments, she brings an adaptive, 
+    problem-solving approach while contributing both scientifically and operationally across diverse 
+    research initiatives; i.e., federally funded programs, student initiatives, community outreach.
 
 affiliations:
   - name: Lamont-Doherty Earth Observatory
@@ -144,27 +142,38 @@ skills:
   - name: Research & Communication
     items:
       - label: Conference Presentations
-        description: 'Talks, Posters, Webinars, Outreach'
+        description: 'Talks, Posters, Webinars, Outreach (all ages)'
         icon: hero/presentation-chart-bar
         level: 5
-      - label: Science Project Management
+      - label: Sci. Project Management
         description: 'Sponsored and Non-Sponsored Effort'
         icon: hero/beaker
         level: 4
       - label: Grant Proposals
-        description: 'NSF OPP Actic & Antarctic, Heising-Simons Foundaiton'
+        description: 'NSF OPP Arctic & Antarctic'
         icon: hero/briefcase
         level: 2
   - name: Hobbies
     items:
+      - label: Manchester United F.C.
+        icon: hero/trophy
+        level: 5
       - label: Sid Meier's Civilization VI
         icon: hero/computer-desktop
         level: 4
-      - label: Manchester United Football Club
-        icon: hero/trophy
-        level: 5
-      - label: Children's Book Recommendations
+      - label: Book Recommendations
         icon: hero/book-open
+        level: 2
+  - name: Sports
+    items:
+      - label: Premier League Football
+        icon: hero/globe-europe-africa
+        level: 5
+      - label: Formula 1
+        icon: hero/wrench
+        level: 4
+      - label: Tennis
+        icon: hero/magnifying-glass
         level: 2
 
 languages:
