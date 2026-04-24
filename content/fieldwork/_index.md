@@ -1,6 +1,6 @@
 ---
 title: Fieldwork
-summary: Archaeological and Geophyscial field experience I've completed throughout my career.
+summary: Archaeological and Geophysical field experience I've completed throughout my career.
 type: landing
 # ONLY fieldwork entries here
 sections:
@@ -8,17 +8,15 @@ sections:
     content:
       title: "Field Locations"
       text: |
-        map removed for debug
-       # <div id="fieldwork-map" style="width: 100%; height: 600px; border-radius: 16px;"></div>
+       <div id="fieldwork-map" style="width: 100%; height: 600px; border-radius: 16px;"></div>
 
-       # <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-       # <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-       # <script src="/js/fieldwork.js"></script>
+       <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+       <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+       <script src="/js/fieldwork.js"></script>
   - block: resume-experience
     content:
-      title: "Fieldwork"
-      filters:
-        folders: fieldwork   
+      title: Fieldwork
+      source: page
       items:
         - title: "Geophysical Field Assistant"
           company: "Blackfriary Archaeology Field School"
