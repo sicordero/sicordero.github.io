@@ -8,9 +8,9 @@ sections:
     content:
       title: "Field Locations"
       text: |
-        <div id="fieldwork-map" style="height: 500px;"></div>
+        TEST SHORTCODE BELOW:
         {{< fieldwork-map-data >}}
-        
+
   - block: collection
     content:
       title: Fieldwork Projects
