@@ -6,7 +6,7 @@ name:
   given: Isabel
   family: Cordero
   #alternate: ''  # Example: 王伟
-  pronunciation: 'Iz ah bell Kor deh roh'  # Example: Wáng Wěi
+  pronunciation: ''  # Example: Wáng Wěi
   pronouns: she/her
 # postnominals:
 #   - PhD
@@ -130,26 +130,41 @@ skills:
   - name: Technical Skills
     items:
       - label: Office Suites
+        description: 'Microsoft, Google, Libre, Apple'
+        icon: hero/document-text
         level: 5
-      - label: Python
-        level: 5
-      - label: SQL
+      - label: Proofreading
+        description: 'pandas, scipy, matplotlib'
+        icon: hero/pencil-square
         level: 4
+      - label: Coding
+        description: 'MATLab, Python, SQL, Markdown'
+        icon: hero/command-line
+        level: 2
   - name: Research & Communication
     items:
       - label: Conference Presentations
+        description: 'Talks, Posters, Webinars, Outreach'
+        icon: hero/presentation-chart-bar
         level: 5
       - label: Science Project Management
+        description: 'Sponsored and Non-Sponsored Effort'
+        icon: hero/beaker
         level: 4
       - label: Grant Proposals
+        description: 'NSF OPP Actic & Antarctic, Heising-Simons Foundaiton'
+        icon: hero/briefcase
         level: 2
   - name: Hobbies
     items:
-      - label: TBD
-        level: 5
-      - label: TBD
+      - label: Sid Meier's Civilization VI
+        icon: hero/computer-desktop
         level: 4
-      - label: TBD
+      - label: Manchester United Football Club
+        icon: hero/trophy
+        level: 5
+      - label: Children's Book Recommendations
+        icon: hero/book-open
         level: 2
 
 languages:
@@ -161,7 +176,7 @@ languages:
     label: Advanced
   - name: Yiddish
     level: 1
-    label: Native New Yorker
+    label: New Yorker
 
 awards:
   - title: LOREM IPSUM
