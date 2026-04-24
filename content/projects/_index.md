@@ -8,7 +8,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I've enjoyed working on a variety of projects throughout my career. Here are a few of them!
       filters:
         folders:
           - projects
