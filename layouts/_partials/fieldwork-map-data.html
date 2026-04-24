@@ -1,0 +1,18 @@
+<script id="fieldwork-data" type="application/json">
+[
+{{- $pages := where .Site.RegularPages "Section" "fieldwork" -}}
+{{- range $i, $p := $pages -}}
+  {{- if and $p.Params.lat $p.Params.lng -}}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "lat": {{ $p.Params.lat }},
+    "lng": {{ $p.Params.lng }},
+    "url": {{ $p.RelPermalink | jsonify }},
+    "location": {{ $p.Params.location | jsonify }},
+    "date_start": {{ $p.Params.date_start | jsonify }},
+    "date_end": {{ $p.Params.date_end | jsonify }}
+  }{{ if lt $i (sub (len $pages) 1) }},{{ end }}
+  {{- end -}}
+{{- end -}}
+]
+</script>

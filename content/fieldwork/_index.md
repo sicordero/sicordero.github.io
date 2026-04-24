@@ -8,7 +8,8 @@ sections:
     content:
       title: "Field Locations"
       text: |
-       <div id="fieldwork-map" style="width: 100%; height: 600px; border-radius: 16px;"></div>
+        <div id="fieldwork-map" style="height: 500px;"></div>
+        {{ partial "fieldwork-map-data.html" . }}
 
   - block: collection
     content:

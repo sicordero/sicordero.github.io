@@ -1,50 +1,62 @@
 function initFieldworkMap() {
   const el = document.getElementById("fieldwork-map");
-  if (!el || typeof L === "undefined") return;
+  const dataEl = document.getElementById("fieldwork-data");
 
-  // Create map
-  const map = L.map(el).setView([20, 0], 2);
+  if (!el || !dataEl || typeof L === "undefined") return;
 
-  // Base layer
+  let locations = [];
+
+  try {
+    locations = JSON.parse(dataEl.textContent);
+  } catch (e) {
+    console.error("Invalid fieldwork JSON", e);
+    return;
+  }
+
+  if (!locations.length) return;
+
+  const map = L.map(el, {
+    scrollWheelZoom: false
+  }).setView([20, 0], 2);
+
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors",
     maxZoom: 18
   }).addTo(map);
 
-  // Pull all fieldwork items from Hugo-rendered DOM
-  const items = document.querySelectorAll(".fieldwork-item");
-
   const bounds = [];
-  let hasPoints = false;
 
-  items.forEach((item) => {
-    const lat = parseFloat(item.dataset.lat);
-    const lng = parseFloat(item.dataset.lng);
-    const title = item.dataset.title || "Fieldwork Site";
+  locations.forEach(loc => {
+    if (!loc.lat || !loc.lng) return;
 
-    if (!isNaN(lat) && !isNaN(lng)) {
-      hasPoints = true;
+    const marker = L.marker([loc.lat, loc.lng]).addTo(map);
 
-      const marker = L.marker([lat, lng])
-        .addTo(map)
-        .bindPopup(`<b>${title}</b>`);
+    marker.bindPopup(`
+      <strong>${loc.title}</strong><br>
+      ${loc.location || ""}<br>
+      <a href="${loc.url}">View Project</a>
+    `);
 
-      bounds.push([lat, lng]);
-    }
+    bounds.push([loc.lat, loc.lng]);
   });
 
-  // Fit map to markers if we have any
-  if (hasPoints) {
-    map.fitBounds(bounds, {
-      padding: [60, 60]
-    });
+  if (bounds.length) {
+    map.fitBounds(bounds, { padding: [60, 60] });
   }
 
-  // Fix for Hugo Blox / hidden layout rendering
-  setTimeout(() => {
-    map.invalidateSize();
-  }, 150);
+  // Fix rendering issues (critical for Hugo layouts)
+  setTimeout(() => map.invalidateSize(), 200);
 }
 
-// Ensure DOM + Leaflet are ready
-window.addEventListener("load", initFieldworkMap);
+// robust loader (prevents race conditions)
+function waitForLeaflet(callback) {
+  if (typeof L !== "undefined") {
+    callback();
+  } else {
+    setTimeout(() => waitForLeaflet(callback), 50);
+  }
+}
+
+window.addEventListener("load", () => {
+  waitForLeaflet(initFieldworkMap);
+});
