@@ -155,11 +155,11 @@ skills:
         level: 2
   - name: Hobbies
     items:
-      - label: Manchester United F.C.
-        icon: hero/trophy
-        level: 5
       - label: Sid Meier's Civilization VI
         icon: hero/computer-desktop
+        level: 5
+      - label: Ancestry/Genealogy
+        icon: hero/user-group
         level: 4
       - label: Book Recommendations
         icon: hero/book-open

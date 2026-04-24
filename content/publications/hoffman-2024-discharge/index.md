@@ -14,8 +14,15 @@ authors:
 - Knut A Christianson
 - ' others'
 date: '2024-01-01'
-publishDate: '2026-04-24T02:23:26.601025Z'
+publishDate: '2025-01-13T16:56:08.318935Z'
 publication_types:
-- paper-conference
+- article-journal
 publication: '*AGU24*'
+
+tags:
+- Ice-Penetrating Radar
+- Ice Shelf Structure
+
+projects:
+- radar
 ---
