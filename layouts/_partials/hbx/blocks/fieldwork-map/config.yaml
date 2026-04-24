@@ -1,0 +1,12 @@
+name: fieldwork-map
+title: Fieldwork Map
+description: Interactive Leaflet map of fieldwork locations
+category: custom
+icon: map
+
+content:
+  required:
+    - title
+
+  optional:
+    - height

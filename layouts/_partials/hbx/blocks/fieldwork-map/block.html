@@ -1,15 +1,11 @@
 {{ $block := . }}
-{{ $title := $block.content.title | default "Field Locations" }}
 
-<section class="fieldwork-map-block p-6">
+<section class="fieldwork-map-block">
 
-  {{ if $title }}
-    <h2 class="text-2xl font-bold mb-4">{{ $title }}</h2>
-  {{ end }}
+  <h2>{{ $block.content.title }}</h2>
 
-  <div id="fieldwork-map" style="height: 500px;"></div>
+  <div id="fieldwork-map" style="height: {{ $block.content.height | default "500px" }}"></div>
 
-  <!-- JSON data from fieldwork pages -->
   <script id="fieldwork-data" type="application/json">
   [
   {{- $pages := where site.RegularPages "Section" "fieldwork" -}}
@@ -21,7 +17,7 @@
         "title": {{ $p.Title | jsonify }},
         "lat": {{ $p.Params.lat }},
         "lng": {{ $p.Params.lng }},
-        "location": {{ $p.Params.location | jsonify }},
+        "date": {{ $p.Params.date }},
         "url": {{ $p.RelPermalink | jsonify }}
       }
       {{- $first = false -}}

@@ -4,10 +4,10 @@ summary: Archaeological and Geophysical field experience I've completed througho
 type: landing
 # ONLY fieldwork entries here
 sections:
-  sections:
   - block: fieldwork-map
     content:
       title: Field Locations
+      height: 500px
   - block: collection
     content:
       title: Fieldwork Projects
