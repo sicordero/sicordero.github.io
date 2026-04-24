@@ -4,6 +4,10 @@ summary: Archaeological and Geophysical field experience I've completed througho
 type: landing
 # ONLY fieldwork entries here
 sections:
+  sections:
+  - block: fieldwork-map
+    content:
+      title: Field Locations
   - block: collection
     content:
       title: Fieldwork Projects
@@ -12,10 +16,5 @@ sections:
           - fieldwork
     design:
       view: card
-      columns: 3
-  - block: markdown
-    content:
-      title: "Field Locations"
-      text: |
-        {{< fieldwork-map-data >}}
+      columns: 2
 ---

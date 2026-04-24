@@ -9,33 +9,22 @@ function initFieldworkMap() {
   try {
     locations = JSON.parse(dataEl.textContent);
   } catch (e) {
-    console.error("Invalid fieldwork JSON", e);
+    console.error("Invalid fieldwork data", e);
     return;
   }
 
-  if (!locations.length) return;
-
-  const map = L.map(el, {
-    scrollWheelZoom: false
-  }).setView([20, 0], 2);
+  const map = L.map(el).setView([20, 0], 2);
 
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: "&copy; OpenStreetMap contributors",
-    maxZoom: 18
+    attribution: "&copy; OpenStreetMap contributors"
   }).addTo(map);
 
   const bounds = [];
 
   locations.forEach(loc => {
-    if (!loc.lat || !loc.lng) return;
-
-    const marker = L.marker([loc.lat, loc.lng]).addTo(map);
-
-    marker.bindPopup(`
-      <strong>${loc.title}</strong><br>
-      ${loc.location || ""}<br>
-      <a href="${loc.url}">View Project</a>
-    `);
+    const marker = L.marker([loc.lat, loc.lng])
+      .addTo(map)
+      .bindPopup(`<b>${loc.title}</b>`);
 
     bounds.push([loc.lat, loc.lng]);
   });
@@ -44,19 +33,7 @@ function initFieldworkMap() {
     map.fitBounds(bounds, { padding: [60, 60] });
   }
 
-  // Fix rendering issues (critical for Hugo layouts)
   setTimeout(() => map.invalidateSize(), 200);
 }
 
-// robust loader (prevents race conditions)
-function waitForLeaflet(callback) {
-  if (typeof L !== "undefined") {
-    callback();
-  } else {
-    setTimeout(() => waitForLeaflet(callback), 50);
-  }
-}
-
-window.addEventListener("load", () => {
-  waitForLeaflet(initFieldworkMap);
-});
+window.addEventListener("load", initFieldworkMap);
