@@ -9,8 +9,8 @@ sections:
       title: "Field Locations"
       text: |
         <div id="fieldwork-map" style="height: 500px;"></div>
-        {{ partial "fieldwork-map-data.html" . }}
-
+        {{< fieldwork-map-data >}}
+        
   - block: collection
     content:
       title: Fieldwork Projects
