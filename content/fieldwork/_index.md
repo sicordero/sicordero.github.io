@@ -4,10 +4,15 @@ summary: Archaeological and Geophysical field experience I've completed througho
 type: landing
 # ONLY fieldwork entries here
 sections:
-  - block: custom
+  - block: markdown
     content:
-      html: |
-        {{ partial "fieldwork-map.html" . }}
+      title: Field Locations
+      text: |
+        <div id="fieldwork-map" style="width:100%; height:600px; border-radius:16px;"></div>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script src="/js/fieldwork.js"></script>
   - block: collection
     content:
       title: Fieldwork Projects
