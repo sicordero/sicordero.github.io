@@ -1,0 +1,30 @@
+<div id="fieldwork-map" style="width:100%;height:600px;border-radius:16px;"></div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const map = L.map("fieldwork-map").setView([20, 0], 2);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "&copy; OpenStreetMap contributors"
+  }).addTo(map);
+
+  const locations = [
+    ["Trim, Ireland", 53.555, -6.791],
+    ["McMurdo Station, Antarctica", -77.84, 166.68],
+    ["Menorca, Spain", 39.95, 4.11],
+    ["Saratoga Springs, NY", 43.083, -73.784]
+  ];
+
+  const bounds = [];
+
+  locations.forEach(l => {
+    L.marker([l[1], l[2]]).addTo(map).bindPopup(l[0]);
+    bounds.push([l[1], l[2]]);
+  });
+
+  map.fitBounds(bounds, { padding: [50, 50] });
+});
+</script>

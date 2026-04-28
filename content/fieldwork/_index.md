@@ -4,16 +4,10 @@ summary: Archaeological and Geophysical field experience I've completed througho
 type: landing
 # ONLY fieldwork entries here
 sections:
-  - block: fieldwork-map
+  - block: custom
     content:
-      title: Field Locations
-      text: |
-        <iframe
-          src="/fieldwork-map.html"
-          width="100%"
-          height="600"
-          style="border:none;border-radius:16px;">
-        </iframe>  
+      html: |
+        {{ partial "fieldwork-map.html" . }}
   - block: collection
     content:
       title: Fieldwork Projects
@@ -22,5 +16,5 @@ sections:
           - fieldwork
     design:
       view: card
-      columns: 2
+      columns: 1
 ---
