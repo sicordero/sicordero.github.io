@@ -1,7 +1,7 @@
 ---
 title: Fieldwork
 summary: Archaeological and Geophysical field experience I've completed throughout my career.
-type: landing
+type: page
 design:
   sidebar: false
 ---
