@@ -7,7 +7,13 @@ sections:
   - block: fieldwork-map
     content:
       title: Field Locations
-      height: 500px
+      text: |
+        <iframe
+          src="/fieldwork-map.html"
+          width="100%"
+          height="600"
+          style="border:none;border-radius:16px;">
+        </iframe>  
   - block: collection
     content:
       title: Fieldwork Projects
