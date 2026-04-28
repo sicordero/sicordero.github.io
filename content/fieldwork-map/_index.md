@@ -5,10 +5,7 @@ design:
   sidebar: false
 ---
 
-{{ partial "fieldwork-map-data.html" . }}
-{{ partial "fieldwork-map.html" . }}
-
-<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
 <div id="fieldwork-map"></div>
 
@@ -24,4 +21,4 @@ design:
 </style>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="/js/fieldwork-map.js"></script> -->
+<script src="/js/fieldwork-map.js"></script>
