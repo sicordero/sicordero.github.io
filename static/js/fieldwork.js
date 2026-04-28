@@ -1,6 +1,11 @@
 function initFieldworkMap() {
   const el = document.getElementById("fieldwork-map");
-  if (!el || typeof L === "undefined") return;
+  if (!el) return;
+
+  if (typeof L === "undefined") {
+    console.error("Leaflet not loaded");
+    return;
+  }
 
   const map = L.map(el).setView([20, 0], 2);
 
@@ -9,20 +14,17 @@ function initFieldworkMap() {
   }).addTo(map);
 
   const locations = [
-    { name: "Trim, Ireland", coords: [53.555, -6.791] },
-    { name: "McMurdo Station, Antarctica", coords: [-77.85, 166.67] },
-    { name: "Menorca, Spain", coords: [39.95, 4.11] },
-    { name: "Saratoga Springs, NY", coords: [43.0831, -73.7846] }
+    ["Trim, Ireland", 53.555, -6.791],
+    ["McMurdo Station, Antarctica", -77.85, 166.67],
+    ["Menorca, Spain", 39.95, 4.11],
+    ["Saratoga Springs, NY", 43.0831, -73.7846]
   ];
 
   const bounds = [];
 
-  locations.forEach(loc => {
-    L.marker(loc.coords)
-      .addTo(map)
-      .bindPopup(`<b>${loc.name}</b>`);
-
-    bounds.push(loc.coords);
+  locations.forEach(([name, lat, lng]) => {
+    L.marker([lat, lng]).addTo(map).bindPopup(name);
+    bounds.push([lat, lng]);
   });
 
   map.fitBounds(bounds, { padding: [50, 50] });
