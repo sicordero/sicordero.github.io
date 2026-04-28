@@ -1,14 +1,14 @@
 ---
 title: Fieldwork
 summary: Archaeological and Geophysical field experience I've completed throughout my career.
-type: page
+type: landing
 design:
   sidebar: false
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
-<div id="map" style="height:700px; max-width: 1400px; margin: 0 auto; border-radius: 16px;"></div>
+<div id="map" style="height:600px; max-width: 1400px; margin: 0 auto; border-radius: 12px;"></div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
@@ -32,12 +32,8 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
----
+
 - sections:
-  - block: markdown
-    content:
-      text: |
-        [View Fieldwork Map](/fieldwork-map/)
   - block: collection
     content:
       title: Fieldwork Projects
@@ -47,4 +43,3 @@ document.addEventListener("DOMContentLoaded", function () {
     design:
       view: card
       columns: 1 -->
----
