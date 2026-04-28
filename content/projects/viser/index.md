@@ -1,7 +1,10 @@
 ---
 title: Visualizing Ice Sheets in Extended Reality (VISER)
 date: 2018-09-01
-external_link: http://pgg.ldeo.columbia.edu/projects/VISER
+links:
+  - type: site
+    url: http://pgg.ldeo.columbia.edu/projects/VISER
+
 tags:
   - Extended Reality (XR)
   - Project Management

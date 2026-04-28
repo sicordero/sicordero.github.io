@@ -1,7 +1,9 @@
 ---
 title: Fracture Patterns
 date: 2015-05-01
-external_link: https://skidmoreanthropology.weebly.com/student-projects/dem-bones-looking-at-subsistence-pressure-at-al-khayran-jordan-during-the-pre-pottery-neolithic-b
+links:
+  - type: site
+    url: https://skidmoreanthropology.weebly.com/student-projects/dem-bones-looking-at-subsistence-pressure-at-al-khayran-jordan-during-the-pre-pottery-neolithic-b
 tags:
   - Archaeology
   - Zooarchaeology

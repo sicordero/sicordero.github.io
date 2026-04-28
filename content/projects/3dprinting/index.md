@@ -1,7 +1,9 @@
 ---
 title: 3D Printing Geospatial Data
 date: 2024-09-15
-external_link: 
+# links:
+#   - type: site
+#     url: https://earth.google.com/earth/d/1W67QgWtpr96Hg8tR-VqTH5H48yALqCIl?usp=sharing 
 tags:
   - 3D Printing
   - 3D Geospatial Data
