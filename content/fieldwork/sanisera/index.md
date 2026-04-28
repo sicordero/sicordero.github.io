@@ -13,7 +13,7 @@ lng: 4.11
 links:
   - type: site
     name: 'Sanisera Archaeological Institute for International Field Schools'
-    url: https://bafs.ie/
+    url: https://archaeology.institute/
 
 # company:
 #   - name: Blackfriary Archaeology Field School
@@ -23,7 +23,7 @@ tags:
   - Archaeology
 
 image:
-  filename: featured.jpg
+  filename: sanisera.jpg
   focal_point: Smart
 ---
 

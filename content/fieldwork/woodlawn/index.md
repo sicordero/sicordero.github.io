@@ -23,7 +23,7 @@ tags:
   - Archaeology
 
 image:
-  filename: featured.jpg
+  filename: woodlawn-glass.jpg
   focal_point: Smart
 ---
 

@@ -23,7 +23,7 @@ tags:
   - Geophysics
 
 image:
-  filename: featured.jpg
+  filename: rosetta.jpg
   focal_point: Smart
 ---
 

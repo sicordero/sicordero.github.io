@@ -23,7 +23,7 @@ tags:
   - Archaeology
 
 image:
-  filename: featured.jpg
+  filename: bioarch-trim.jpg
   focal_point: Smart
 ---
 
