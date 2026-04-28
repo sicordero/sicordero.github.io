@@ -14,12 +14,15 @@ design:
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const map = L.map('map').setView([20, 0], 2);
+  // Initialize map (no preset center needed)
+  const map = L.map('map');
 
+  // Base map layer
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap'
   }).addTo(map);
 
+  // Fieldwork locations
   const locations = [
     ["Trim", 53.555, -6.791],
     ["Antarctica", -77.85, 166.67],
@@ -27,20 +30,22 @@ document.addEventListener("DOMContentLoaded", function () {
     ["New York", 43.0831, -73.7846]
   ];
 
+  const bounds = [];
+
+  // Add markers
   locations.forEach(([name, lat, lng]) => {
-    L.marker([lat, lng]).addTo(map).bindPopup(name);
+    L.marker([lat, lng])
+      .addTo(map)
+      .bindPopup(name);
+
+    bounds.push([lat, lng]);
+  });
+
+  // Fit map to all points (✔ improved UX)
+  map.fitBounds(bounds, {
+    padding: [80, 80], // nicer margins around edges
+    maxZoom: 3         // prevents over-zooming (important for Antarctica)
   });
 });
 </script>
----
-- sections:
-  - block: collection
-    content:
-      title: Fieldwork Projects
-      filters:
-        folders:
-          - fieldwork
-    design:
-      view: card
-      columns: 1
 ---
