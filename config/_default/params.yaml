@@ -19,8 +19,8 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: MakeOwnable
+    # social:
+    #   twitter: MakeOwnable
     tagline: Scientific Support Staff | LDEO Columbia
     description: Isabel is a data analyst and operations for sponsored academic research
 
@@ -68,7 +68,7 @@ hugoblox:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
     radius: "md"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "spacious"
+    spacing: "comfortable"
     # Avatar shape in author profiles
     avatar_shape: circle # circle | square | rounded
 

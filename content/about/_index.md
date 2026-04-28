@@ -5,6 +5,7 @@ type: landing
 
 # Page sections
 sections:
+  
   - block: cta-image-paragraph
     content:
       items:
