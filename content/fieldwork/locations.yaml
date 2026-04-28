@@ -1,0 +1,15 @@
+- name: "Trim, Ireland"
+  lat: 53.555
+  lng: -6.791
+
+- name: "McMurdo Station, Antarctica"
+  lat: -77.85
+  lng: 166.67
+
+- name: "Menorca, Spain"
+  lat: 39.95
+  lng: 4.11
+
+- name: "Saratoga Springs, NY"
+  lat: 43.0831
+  lng: -73.7846
