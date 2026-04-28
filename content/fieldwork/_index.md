@@ -7,8 +7,7 @@ sections:
   - block: markdown
     content:
       text: |
-        <div id="fieldwork-map" style="height:600px;"></div>
-        {{ partial "fieldwork-scripts.html" . }}
+        [View Fieldwork Map](/fieldwork-map/)
   - block: collection
     content:
       title: Fieldwork Projects
