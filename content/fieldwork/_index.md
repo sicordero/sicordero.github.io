@@ -6,9 +6,9 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Field Locations
       text: |
-        <div id="fieldwork-map" style="height:600px;background:red;"></div>
+        <div id="fieldwork-map" style="height:600px;"></div>
+        {{ partial "fieldwork-scripts.html" . }}
   - block: collection
     content:
       title: Fieldwork Projects
