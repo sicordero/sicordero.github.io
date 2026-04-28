@@ -24,7 +24,7 @@ tags:
   - Archaeology
 
 image:
-  filename: geophys-trim.jpeg
+  filename: featured.jpeg
   focal_point: Smart
 ---
 

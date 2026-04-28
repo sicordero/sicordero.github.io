@@ -15,15 +15,11 @@ links:
     name: 'Skidmore College: Department of Anthropology'
     url: https://www.skidmore.edu/anthropology/index.php
 
-# company:
-#   - name: Blackfriary Archaeology Field School
-#     url: https://bafs.ie/
-
 tags:
   - Archaeology
 
 image:
-  filename: woodlawn-glass.jpg
+  filename: featured.jpg
   focal_point: Smart
 ---
 

@@ -23,7 +23,7 @@ tags:
   - Archaeology
 
 image:
-  filename: sanisera.jpg
+  filename: featured.jpg
   focal_point: Smart
 ---
 
