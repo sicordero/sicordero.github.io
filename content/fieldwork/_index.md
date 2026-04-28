@@ -1,9 +1,9 @@
 ---
 title: Fieldwork
 summary: Archaeological and Geophysical field experience I've completed throughout my career.
-type: landing
+type: page
 design:
-  sidebar: false
+  sidebar: true
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
-
+---
 - sections:
   - block: collection
     content:
@@ -42,4 +42,5 @@ document.addEventListener("DOMContentLoaded", function () {
           - fieldwork
     design:
       view: card
-      columns: 1 -->
+      columns: 1
+---
