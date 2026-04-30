@@ -35,7 +35,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Curretn Research'
+      title: '📚 My Current Research'
       subtitle: ''
       text: |-
           The [Visualizing Ice Sheets in Extended Reality](https://pgg.ldeo.columbia.edu/projects/viser) Project is a unique experiment to change the methodology and perspective in which geospatial data is interpreted.
@@ -63,7 +63,7 @@ sections:
       filters:
         folders:
           - publications
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   - block: collection
@@ -105,7 +105,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: false # Only display this section in the HugoBlox Kit demo site
+    demo: true # Only display this section in the HugoBlox Kit demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
