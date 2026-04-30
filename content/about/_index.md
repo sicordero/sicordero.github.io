@@ -16,7 +16,7 @@ sections:
         I support interdisciplinary projects from planning through field deployment and data management, with a focus on polar and geospatial research.
       primary_action:
         text: Download CV
-        url: /static/updloads/resume.pdf
+        url: uploads/resume.pdf
       secondary_action:
         text: Contact
         url: /#contact
@@ -26,9 +26,9 @@ sections:
         image:
           filename: NewportHydrangea.JPG   # ← place in /assets/media/
           filters:
-            brightness: 0.6
+            brightness: 0.5
       spacing:
-        padding: ["3rem", "0", "3rem", "0"]
+        padding: ["2rem", "0", "2rem", "0"]
 
   # ─────────────────────────────────────
   # ABOUT / BIO
@@ -37,15 +37,15 @@ sections:
     content:
       title: "About Me"
       text: |
-        I work in academic research environments supporting complex, interdisciplinary projects through a combination of technical, logistical, and administrative expertise.
+        I am a native New Yorker - born and raised. For nearly the last deacde, I've worked in academic research environments supporting complex, interdisciplinary projects through a combination of my technical, logistical, and administrative expertise.
 
-        My background spans geophysical fieldwork, archaeology, and data systems, allowing me to move fluidly between field environments and institutional operations. I’ve supported federally funded research, international collaborations, and field deployments in remote environments including Antarctica.
+        My background spans geophysical fieldwork, archaeology, and event coordination, which allows me to move fluidly between administrative and scientific research environments. I’ve supported federally funded research, international collaborations, and field deployments in Antarctica.
 
         I’m particularly interested in:
-        - Geospatial data workflows  
-        - Field logistics and operations  
-        - Research infrastructure and project management  
-        - Science communication and public engagement  
+        - Geospatial data exploration  
+        - Field logistics/operations  
+        - Research and project management  
+        - Science communication
     design: 
       columns: 2
 
@@ -56,14 +56,18 @@ sections:
     content:
       title: "Approach"
       text: |
-        I approach research support as a systems problem—connecting people, data, and infrastructure to enable successful scientific outcomes.
+        "<i>People are like gems, right? They have facets to them and some of them only get exposed within certain relationships.</i>"
+        
+        - Brennan Lee Mulligan
+        
+        There's more than one way to look at a problem. I approach research support as a systems problem—connecting people, data, and infrastructure to enable successful scientific outcomes.
 
         My work sits at the intersection of:
-        - **Field environments** — coordinating logistics, instrumentation, and deployment  
-        - **Data systems** — ensuring collection, quality control, and long-term usability  
-        - **Research operations** — managing timelines, funding requirements, and collaboration structures  
+        - **Fieldwork** — coordinating logistics, instrumentation, and deployment  
+        - **Data Systems** — ensuring collection, quality control, and long-term usability/archive  
+        - **Research Operations** — managing timelines, funding requirements, and collaboration structures  
 
-        This allows me to move between on-the-ground fieldwork and institutional coordination, helping projects run smoothly from planning through execution and reporting.
+        My multi-faceted background allows me to move between on-the-ground fieldwork and institutional coordination, helping projects run smoothly from planning-stages through execution and reporting.
 
   # ─────────────────────────────────────
   # SKILLS / CAPABILITIES
@@ -92,10 +96,8 @@ sections:
           description: Conference presentations (talks & posters), outreach events, and data visualization.
           icon: presentation-chart-line
 
-
-
   # ─────────────────────────────────────
-  # FIELDWORK LINK
+  # CERTIFICATIONS
   # ─────────────────────────────────────
   - block: markdown
     content:
@@ -113,7 +115,7 @@ sections:
       title: "Selected Work"
       filters:
         folders:
-          - project
+          - projects
       count: 3
     design:
       view: card
