@@ -26,7 +26,7 @@ sections:
         image:
           filename: NewportHydrangea.JPG   # ← place in /assets/media/
           filters:
-            brightness: 0.5
+            brightness: 0.25
       spacing:
         padding: ["2rem", "0", "2rem", "0"]
 
@@ -37,7 +37,9 @@ sections:
     content:
       title: "About Me"
       text: |
-        I am a native New Yorker - born and raised. For nearly the last deacde, I've worked in academic research environments supporting complex, interdisciplinary projects through a combination of my technical, logistical, and administrative expertise.
+        I am a native New Yorker - born and raised. Growing up with the historic and diverse tapestry of NYC shaped much of who I am today. I am so grateful for my elcectic and interdisciplinary background, all of which I can attribute to my incredible parents and wonderful family.
+        
+        For nearly the last deacde, I've worked in academic research environments supporting complex, interdisciplinary projects through a combination of my technical, logistical, and administrative expertise.
 
         My background spans geophysical fieldwork, archaeology, and event coordination, which allows me to move fluidly between administrative and scientific research environments. I’ve supported federally funded research, international collaborations, and field deployments in Antarctica.
 
@@ -47,7 +49,7 @@ sections:
         - Research and project management  
         - Science communication
     design: 
-      columns: 2
+      columns: '2'
 
   # ─────────────────────────────────────
   # PORTFOLIO-STYLE APPROACH BLOCK

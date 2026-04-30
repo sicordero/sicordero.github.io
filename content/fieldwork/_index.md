@@ -14,6 +14,7 @@ design:
   width: 100vw;
   height: 500px;
   margin-left: calc(-25vw + 25%);
+  margin-right: calc(-25vw + 25%);
 }
 </style>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
