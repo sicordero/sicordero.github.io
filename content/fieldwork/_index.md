@@ -43,8 +43,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Fit map to all points (✔ improved UX)
   map.fitBounds(bounds, {
-    padding: [80, 80], // nicer margins around edges
-    maxZoom: 3         // prevents over-zooming (important for Antarctica)
+    padding: [60, 60], // Originally 80,80 for margins
+    maxZoom: 3         // prevent over-zooming (important for Antarctica)
   });
 });
 </script>
