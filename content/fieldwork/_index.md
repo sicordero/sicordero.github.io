@@ -8,17 +8,23 @@ design:
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
+<div id="map-container">
+  <div id="map-hint">Click map to zoom</div>
+  <div id="map"></div>
+</div>
+
 <style>
 #map-container {
   position: relative;
 }
 
 #map {
-  width: 100%;
-  height: 550px;
-  border-radius: 12px;
+  width: 100vw;
+  height: 500px;
+  margin-left: calc(-50vw + 50%);
 }
 
+/* UX hint */
 #map-hint {
   position: absolute;
   top: 12px;
@@ -35,43 +41,40 @@ design:
 }
 </style>
 
-<div id="map-container">
-  <div id="map-hint">Click map to enable zoom</div>
-  <div id="map"></div>
-</div>
-
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  // 👇 disable scroll zoom initially (fixes scroll trap)
   const map = L.map('map', {
-    scrollWheelZoom: false   // disabled by default
+    scrollWheelZoom: false
   });
 
-  // Base tiles
+  // Base map layer
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap'
   }).addTo(map);
 
-  // Locations
+  // Fieldwork locations
   const locations = [
-    ["Trim, Ireland", 53.555, -6.791],
-    ["McMurdo Station, Antarctica", -77.85, 166.67],
-    ["Menorca, Spain", 39.95, 4.11],
-    ["Saratoga Springs, NY", 43.0831, -73.7846]
+    ["Trim", 53.555, -6.791],
+    ["Antarctica", -77.85, 166.67],
+    ["Menorca", 39.95, 4.11],
+    ["New York", 43.0831, -73.7846]
   ];
 
   const bounds = [];
 
+  // Add markers
   locations.forEach(([name, lat, lng]) => {
     L.marker([lat, lng])
       .addTo(map)
-      .bindPopup(`<b>${name}</b>`);
+      .bindPopup(name);
 
     bounds.push([lat, lng]);
   });
 
-  // Fit map to all markers
+  // Fit map to all points
   map.fitBounds(bounds, {
     padding: [40, 40],
     maxZoom: 3
@@ -79,26 +82,23 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const hint = document.getElementById("map-hint");
 
-  // Enable zoom on click
+  // 👇 enable zoom ONLY after click
   map.on('click', function () {
     map.scrollWheelZoom.enable();
 
     if (hint) {
       hint.style.opacity = "0";
-      setTimeout(() => hint.style.display = "none", 300);
     }
   });
 
-  // Disable zoom when leaving map (preventing scroll trap!!)
+  // 👇 disable again when leaving map (prevents trap)
   map.on('mouseout', function () {
     map.scrollWheelZoom.disable();
 
     if (hint) {
-      hint.style.display = "block";
-      setTimeout(() => hint.style.opacity = "1", 10);
+      hint.style.opacity = "1";
     }
   });
 });
 </script>
-
 ---
