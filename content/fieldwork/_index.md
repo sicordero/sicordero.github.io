@@ -8,8 +8,7 @@ design:
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
-<div id="map" style="height:600px; max-width: 1400px; margin: 0 auto; border-radius: 12px;"></div>
-
+<div id="map" style="height:600px; max-width: 100%; margin: 0 auto; border-radius: 12px;"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
@@ -43,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Fit map to all points (✔ improved UX)
   map.fitBounds(bounds, {
-    padding: [60, 60], // Originally 80,80 for margins
+    padding: [10, 10], // Originally 80,80 for margins
     maxZoom: 3         // prevent over-zooming (important for Antarctica)
   });
 });
