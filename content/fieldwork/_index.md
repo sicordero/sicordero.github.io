@@ -3,12 +3,19 @@ title: Fieldwork
 summary: Archaeological and Geophysical field experience I've completed throughout my career.
 type: page
 design:
-  sidebar: true
+  sidebar: false
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
-<div id="map" style="height:600px; max-width: 100%; margin: 0 auto; border-radius: 12px;"></div>
+<div id="map"></div>
+<style>
+#map {
+  width: 100%;
+  height: 500px;   /* ↓ slightly shorter fixes tall/narrow feel */
+  border-radius: 12px;
+}
+</style>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
@@ -42,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Fit map to all points (✔ improved UX)
   map.fitBounds(bounds, {
-    padding: [10, 10], // Originally 80,80 for margins
+    padding: [40, 40], // Originally 80,80 for margins
     maxZoom: 3         // prevent over-zooming (important for Antarctica)
   });
 });
