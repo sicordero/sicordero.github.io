@@ -15,8 +15,8 @@ sections:
 
         I support interdisciplinary projects from planning through field deployment and data management, with a focus on polar and geospatial research.
       primary_action:
-        text: View Fieldwork
-        url: /fieldwork/
+        text: Download CV
+        url: /static/updloads/resume.pdf
       secondary_action:
         text: Contact
         url: /#contact
@@ -24,7 +24,7 @@ sections:
       columns: "2"
       background:
         image:
-          filename: isabel-ksc.JPG   # ← place in /assets/media/
+          filename: NewportHydrangea.JPG   # ← place in /assets/media/
           filters:
             brightness: 0.6
       spacing:
@@ -46,6 +46,8 @@ sections:
         - Field logistics and operations  
         - Research infrastructure and project management  
         - Science communication and public engagement  
+    design: 
+      columns: 2
 
   # ─────────────────────────────────────
   # PORTFOLIO-STYLE APPROACH BLOCK
@@ -85,6 +87,12 @@ sections:
         - name: Research Administration
           description: Grant support, reporting, compliance, and institutional coordination.
           icon: building-office
+
+        - name: Science Communication
+          description: Conference presentations (talks & posters), outreach events, and data visualization.
+          icon: presentation-chart-line
+
+
 
   # ─────────────────────────────────────
   # FIELDWORK LINK
