@@ -11,9 +11,9 @@ design:
 <div id="map"></div>
 <style>
 #map {
-  width: 100%;
-  height: 500px;   /* ↓ slightly shorter fixes tall/narrow feel */
-  border-radius: 12px;
+  width: 100vw;
+  height: 500px;
+  margin-left: calc(-50vw + 50%);
 }
 </style>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
