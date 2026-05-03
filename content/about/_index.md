@@ -37,7 +37,7 @@ sections:
     content:
       title: "About Me"
       text: |
-        I am a native New Yorker - born and raised. Growing up with the historic and diverse tapestry of NYC shaped much of who I am today. I am so grateful for my elcectic and interdisciplinary background, all of which I can attribute to my incredible parents and wonderful family.
+        I am a native New Yorker - born and raised. Growing up with the historic and vibrant tapestry of NYC shaped much of who I am today. I am so grateful for my elcectic and diverse upbringing, for which I attribute to my incredible parents and wonderful family.
         
         For nearly the last deacde, I've worked in academic research environments supporting complex, interdisciplinary projects through a combination of my technical, logistical, and administrative expertise.
 
@@ -56,20 +56,19 @@ sections:
   # ─────────────────────────────────────
   - block: markdown
     content:
-      title: "Approach"
+      title: "My Approach"
       text: |
         "<i>People are like gems, right? They have facets to them and some of them only get exposed within certain relationships.</i>"
+         -- <i>Brennan Lee Mulligan</i>
         
-        - Brennan Lee Mulligan
-        
-        There's more than one way to look at a problem. I approach research support as a systems problem—connecting people, data, and infrastructure to enable successful scientific outcomes.
+        There's more than one way to look at a problem. I approach research support as a systems problem - connecting people, data, and infrastructure - to enable successful scientific outcomes. I'm driven to ensure stakeholder needs are at the core of all my projects.
 
         My work sits at the intersection of:
         - **Fieldwork** — coordinating logistics, instrumentation, and deployment  
         - **Data Systems** — ensuring collection, quality control, and long-term usability/archive  
-        - **Research Operations** — managing timelines, funding requirements, and collaboration structures  
+        - **Research Operations** — managing timelines, funding requirements, and collaborative values/expectations
 
-        My multi-faceted background allows me to move between on-the-ground fieldwork and institutional coordination, helping projects run smoothly from planning-stages through execution and reporting.
+        My multi-faceted background allows me to move between on-the-ground fieldwork and institutional coordination, helping projects run smoothly from planning-stages through execution and reporting. I like to bring an intersectional project management style to the table. We are all only human - accountability and understanding are important for a healthy working dynamic.
 
   # ─────────────────────────────────────
   # SKILLS / CAPABILITIES

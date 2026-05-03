@@ -73,42 +73,42 @@ experience:
     date_start: 2025-01-15
     summary: |
       Manage project timelines, PI communication, and expectations. Provide data processing and interpretation for PI analyses and further discovery.
-      * Project Management: develop roadmap; develop and initiate scrum tasks; maintain group documentation, agenda, meeting notes; develop NSF proposal; multi-institutional stakeholder communication; and project reporting.
-      * Scientific Contribution: data processing, data interpretation, publication contribution, figure generation, academic conference talk development, abstract contribution
+      * Project Management: Develop roadmap; develop and initiate scrum tasks; maintain group documentation, agenda, meeting notes; develop NSF proposal; multi-institutional stakeholder communication; and project reporting.
+      * Scientific Contribution: Data processing, data interpretation, publication contribution, figure generation, academic conference talk development, abstract contribution
+      * Pre-Award Support: NSF proposal development, proofreading, and submission
   - role: Project Logistics Coordinator
     org: NERC NSF Antarctic Peninsula Melt Dynamics (FRAM)
     org_url: 'https://ldeo-glaciology.github.io/AntPen_NSF_NERC/'
     date_start: 2023-07-01
     summary: |
       Provide end-to-end support for field logistics and operations for FRAM fieldwork in coordination with international partners and instrument manufacturers (sub-awardees), as well as international government Antarctic program offices.
-      * Post Award Management: budget reconciliation, project purchasing, effort reporting
+      * Post-Award Support: Budget tracking, compliant project purchasing, effort reporting
       * Project Management: Develop roadmap, form risk assesments, weekly timeline and kpi assessments, ramp up
-      * Antarctic Logisitcs: British Antarctic Survey (BAS) Bills of Lading (BOL), 
-      United States Antarctic Program (USAP) proforma, Interinational & U.S. Commodity Codes, 
-      instrument Shipping regulations, Antarctic Treaty compliance
+      * Antarctic Cargo Logisitcs: British Antarctic Survey (BAS) Bills of Lading (BOL), 
+      United States Antarctic Program (USAP) proforma, International & U.S. Commodity Codes, geophysical instrument shipping regulations, Antarctic Treaty compliance
     #button:
     #  text: View portfolio
     #  url: /
     #  icon: hero/arrow-down-tray
-  - role: Curator & Data Repository Manager
+  - role: Data Repository Manager
     org: United States Antarctic Data Center (USAP-DC)
     org_url: 'https://www.usap-dc.org/'
     date_start: 2023-01-01
     summary: |
       Support National Science Foundation (NSF) Office of Polar Programs (OPP) Antarctic Researchers with project registration and digital data obligations.
-      * Post Award Management: federal data obligation support, FAIR data assessments, NCAR reporting, annual reporting
+      * Post-Award Support: federal data obligation support, FAIR data assessments, SCADM reporting, annual reporting
       * Project Management: manage documentation, timeline assessments, manage SQL database, adjudicate data repository submissions, stakeholder management, stakeholder communication
       * Science Communication: host annual introductory webinar (2024, 2025, 2026), develop outreach materials, revise user guidelines, develop & deliver poster presentations
-  - role: Project Manager
+  - role: Project Manager & Research Scientist
     org: Visualizing Ice Sheets in Extended Reality (VISER)
     org_url: https://pgg.ldeo.columbia.edu/projects/VISER
     date_start: 2022-09-01
     summary: |
       Support project heath and hygiene across all phases, from proposal development to publication. Manage a team of 3 - 8 Research Project Course students (undergraduate, graduate, PhD) enrolled through Prof. Steven Feiner’s Computer Graphics & User Interfaces (CGUI) Lab. Foster communication between interdisciplinary stakeholders and advisory faculty.
       * Student Management: CGUI Research Project Course student recruitment, project scope onboarding, scrum task assignment, KPI & statement of work evaluations, mentorship, and polar science education
-      * Project Management: develop roadmap, form risk assesments, maintain user & developer documentation, adjudicate GitHub issues & branch management, 
-      * Scientific Contribution: data processing, data preparation, pubilcation contribution, conference contribution
-      * Science Communication: outreach events (including live demos), demo video recording/editing, poster presentations
+      * Project Management: Develop roadmap, form risk assesments, maintain user & developer documentation, adjudicate GitHub issues & branch management, 
+      * Scientific Contribution: Data processing, data preparation, pubilcation contribution, conference contribution
+      * Science Communication: Outreach events (including live demos), demo video recording/editing, poster presentations
   - role: Radar Consultant
     org: Visualizing Ice Sheets in Extended Reality (VISER)
     org_url: 'https://pgg.ldeo.columbia.edu/projects/VISER'
@@ -127,9 +127,9 @@ experience:
     date_end: 2024-10-31
     summary: |
       MPG Division exhibit tent coordinator for Annual Open House - campus wide outreach event with >2,000 attendees of all ages and backgrounds.
-      * Event Coordination: roadmap development; vendor coordination; outreach equipment purchases and distribution; outreach display consultation; volunteer support and communication; on-site display set-up; exhibit curation; and resource management.
-      * Administrative Tasks: expense tracking, budget management, timeline execution, and deliver ramp-up / ramp-down / volunteer feedback reports to committee. 
-      * Science Communication: develop outreach materials, deliver outreach display presentations to attendees (primarily polar)
+      * Event Coordination: Roadmap development; vendor coordination; outreach equipment purchases and distribution; outreach display consultation; volunteer support and communication; on-site display set-up; exhibit curation; and resource management.
+      * Administrative Support: Expense tracking, budget management, timeline execution, and deliver ramp-up / ramp-down / volunteer feedback reports to committee. 
+      * Science Communication: Develop outreach materials, deliver outreach display presentations to attendees (primarily polar)
   - role: Technical & Administrative Support Staff
     org: Polar Geophysics & Glaciology (PGG) Group
     org_url: 'https://pgg.ldeo.columbia.edu/'
@@ -137,8 +137,8 @@ experience:
     summary: |
       General and administrative support for all working groups within PGG including: outreach, data processing, data management, and fieldwork logitstics.
       * Administrative Support: IT liason for server maintenance and University compliance; data archive server maintenance; group website maintenance; group documentation management; Slack channel management; outreach material development and management; PGG website maintenance.
-      * Technical Support: geophysical data processing; radar data interpretation; proofreading and copywriting (website text, abstracts, publications, listserv communication, event advertisement)
-      * Field Cargo Logistics Support: logistics planning, cargo shipping, liason to Shipping & Receiving Coordinators at LDEO, USAP, BAS, and instrument manufacturers; Antarctic Treaty instrument & field compliance       
+      * Technical Support: Geophysical data processing; radar data interpretation; proofreading and copywriting (website text, abstracts, publications, listserv communication, event advertisement)
+      * Field Cargo Logistics Support: Logistics planning, cargo shipping, liason to Shipping & Receiving Coordinators at LDEO, USAP, BAS, and instrument manufacturers; Antarctic Treaty instrument & field compliance       
 
 skills:
   - name: Technical Skills
@@ -165,7 +165,7 @@ skills:
         description: 'Sponsored and Non-Sponsored Effort'
         icon: hero/beaker
         level: 4
-      - label: Grant Proposals
+      - label: Federally Sponsored Research
         description: 'NSF OPP Arctic & Antarctic'
         icon: hero/briefcase
         level: 2
@@ -176,7 +176,7 @@ skills:
         level: 5
       - label: Ancestry/Genealogy
         icon: hero/user-group
-        level: 4
+        level: 3
       - label: Book Recommendations
         icon: hero/book-open
         level: 2
@@ -187,10 +187,10 @@ skills:
         level: 5
       - label: Formula 1
         icon: hero/wrench
-        level: 4
+        level: 2
       - label: Tennis
         icon: hero/magnifying-glass
-        level: 2
+        level: 4
 
 languages:
   - name: English
